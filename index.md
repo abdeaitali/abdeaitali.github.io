@@ -1,5 +1,5 @@
 # Dr. Abderrahman Ait-Ali
-<img src="https://github.com/abdeaitali/abdeaitali.github.io/blob/master/images/sketch.JPG" width=300 align=right>
+<img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=300 align=right>
 
 ## Short Biography (and [CV](https://github.com/abdeaitali/abdeaitali.github.io/blob/master/files/cv.pdf))
 Abderrahman is working as a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU](https://liu.se/en/employee/abdai17). The focus of his research is mainly on *cost-benefit analysis*, *operations research*, *mathematical programming and optimisation* with applications to railway problems such as capacity allocation. 
@@ -14,6 +14,10 @@ Here is a list of selected publications
 * Ait Ali, A. (2015). Integration of Production Scheduling and Energy Management: Software Development. (**Master thesis**). KTH Royal Institute of Technology, Stockholm. [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136) **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/blob/master/files/mathesis.pdf)**
 
 ## Presentations
+* *Methods for Capacity Allocation in Deregulated Railway Markets*. PhD defense - November 2020. **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/blob/master/files/slides/phd.pdf)** - **[(Video recording)](https://youtu.be/5EsgU053MHU)**
+* *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. TransportForum - Januari 2020. **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/blob/master/files/slides/tf20.pdf)**
+* ...
+
 
 ## Other Publications
 
