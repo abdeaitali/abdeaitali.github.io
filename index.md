@@ -1,5 +1,5 @@
 # Dr. Abderrahman Ait-Ali
-<img src="https://github.com/abdeaitali/abdeaitali.github.io/blob/master/images/sketch.jpg" width=300 align=right>
+<img src="https://github.com/abdeaitali/abdeaitali.github.io/blob/master/images/sketch.JPG" width=300 align=right>
 
 ## Short Biography (and [CV](https://github.com/abdeaitali/abdeaitali.github.io/blob/master/files/cv.pdf))
 Abderrahman is working as a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU](https://liu.se/en/employee/abdai17). The focus of his research is mainly on *cost-benefit analysis*, *operations research*, *mathematical programming and optimisation* with applications to railway problems such as capacity allocation. 
