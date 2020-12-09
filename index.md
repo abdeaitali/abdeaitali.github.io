@@ -10,14 +10,13 @@ Besides research, Abdou (short for Abderrahman) is also interested in *linguisti
 
 ## Selected publications
 Here is a list of selected publications
-* Ait-Ali, A. (2020). Methods for Capacity Allocation in Deregulated Railway Markets. Linköping University Electronic Press, Linköping. [https://doi.org/10.3384/diss.diva-170193](https://doi.org/10.3384/diss.diva-170193) - **Doctoral thesis** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/phdthesis.pdf)**
+* Ait-Ali, A. (2020). Methods for Capacity Allocation in Deregulated Railway Markets. Linköping Studies in Science and Technology. Dissertation No. 2101. [https://doi.org/10.3384/diss.diva-170193](https://doi.org/10.3384/diss.diva-170193) - **Doctoral thesis** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/phdthesis.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/phd.pdf)** - **[(Video recording)](https://youtu.be/5EsgU053MHU)**
 * Ait-Ali, A., Warg, J., Eliasson, J., (2020), Pricing commercial train path requests based on societal costs, *Transportation Research Part A, 132, 452-464*. [https://doi.org/10.1016/j.tra.2019.12.005](https://doi.org/10.1016/j.tra.2019.12.005) - **Journal paper** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf)**
 * Ait-Ali, A., Lindberg, P. O., Eliasson, J., Nilsson, J., Peterson, A., (2020), A disaggregate bundle method for train timetabling problems, *Journal of Rail Transport Planning & Management*. [https://doi.org/10.1016/j.jrtpm.2020.100200](https://doi.org/10.1016/j.jrtpm.2020.100200) - **Journal paper** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf)**
 * Ait-Ali, A. (2015). Integration of Production Scheduling and Energy Management: Software Development. KTH Royal Institute of Technology, Stockholm. [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136) - **Master thesis** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/mathesis.pdf)**
 
 ## Selected presentations
-* *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **TransportForum, Januari 2021.** - **[(Slides - draft)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
-* *Methods for Capacity Allocation in Deregulated Railway Markets*. **PhD defense, November 2020.** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/phd.pdf)** - **[(Video recording)](https://youtu.be/5EsgU053MHU)**
+* *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **TransportForum, Januari 2021.** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **TransportForum, Januari 2020.** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 
