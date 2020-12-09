@@ -16,19 +16,21 @@ Here is a list of selected publications
 * Ait-Ali, A. (2015). Integration of Production Scheduling and Energy Management: Software Development. KTH Royal Institute of Technology, Stockholm. [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136) - **Master thesis** - **[(Pre-print PDF version)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/mathesis.pdf)**
 
 ## Selected presentations
+* *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **TransportForum, Januari 2021.** - **[(Slides - draft)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
 * *Methods for Capacity Allocation in Deregulated Railway Markets*. **PhD defense, November 2020.** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/phd.pdf)** - **[(Video recording)](https://youtu.be/5EsgU053MHU)**
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **TransportForum, Januari 2020.** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
-* ...
 
 
 ## Other publications (and presentations)
-* Ait-Ali, A., Eliasson, J.  (2019). Railway capacity allocation: a survey of market organizations, allocation processes and track access charges. *VTI Working Papers Series 2019:1* [http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902) - **Working paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/vtiwps19_1.pdf)**
-* Warg, J., Ait-Ali, A., Eliasson, J.  (2019). Assessment of Commuter Train Timetables Including Transfers. *21th EURO Working Group on Transportation Meeting, EWGT 2018, Braunschweig.* [https://doi.org/10.1016/j.trpro.2018.12.160](https://doi.org/10.1016/j.trpro.2018.12.160) - **Conference paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ewgt18.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ewgt18.pdf)**
+* Ait-Ali, A., Eliasson, J., Warg, J. (2020). Are commuter train timetables consistent with passengers’ valuations of waiting times and in-vehicle crowding?. *VTI Working Papers Series 2020:1.* Presented at *2019 European Conference of the Society for Benefit-Cost Analysis, SCBA 2019, Toulouse.*. [http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-14810](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-14810) - **Working paper presented at a conference** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/vtiwps20_1.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba19.pdf)**
+* Ait-Ali, A., Eliasson, J. (2019). Railway capacity allocation: a survey of market organizations, allocation processes and track access charges. *VTI Working Papers Series 2019:1.* [http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902) - **Working paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/vtiwps19_1.pdf)**
+* Warg, J., Ait-Ali, A., Eliasson, J. (2019). Assessment of Commuter Train Timetables Including Transfers. *21th EURO Working Group on Transportation Meeting, EWGT 2018, Braunschweig.* [https://doi.org/10.1016/j.trpro.2018.12.160](https://doi.org/10.1016/j.trpro.2018.12.160) - **Conference paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ewgt18.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ewgt18.pdf)**
 * Ait-Ali, A., Eliasson, J., Warg, J. (2017). Measuring the Socio-economic Benefits of Train Timetables Application to Commuter Train Services in Stockholm. *20th EURO Working Group on Transportation Meeting, EWGT 2017, Budapest.* [https://doi.org/10.1016/j.trpro.2017.12.124](https://doi.org/10.1016/j.trpro.2017.12.124) - **Conference paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ewgt17.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ewgt17.pdf)**
 * Ait-Ali, A., Sedrati, A. (2016). Towards Internet Domain Names in Tifinagh. *Conference Proceedings of TICAM 2016, Rabat.* - **Conference paper** - **[(Paper)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ticam16.pdf)** - **[(Slides)](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ticam16.pdf)**
 
 ## Projects
 
+* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by Trafikverket.
 
 ## Contacts
 * [Email](mailto:abde.aitali@live.com) 
