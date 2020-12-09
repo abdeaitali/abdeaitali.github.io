@@ -2,7 +2,7 @@
 <img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=150 align=right>
 
 ## Short biography (and [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf))
-Abderrahman is born in [Ait Melloul](https://goo.gl/maps/eBJYE8a3YLKsdhZw9) (near Agadir), Morocco. He holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)) as well as a Masters degree (in Computer Science and Engineering) from [KTH](https://www.kth.se/profile/abde). In November 2020, he got a PhD. degree (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from LiU.
+Abderrahman was born in [Ait Melloul](https://goo.gl/maps/eBJYE8a3YLKsdhZw9) (near Agadir), Morocco. He holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)) as well as a Masters degree (in Computer Science and Engineering) from [KTH](https://www.kth.se/profile/abde). In November 2020, he got a PhD. degree (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from LiU.
 
 Abderrahman is currently working as a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) (and [LiU](https://liu.se/en/employee/abdai17)). The focus of his research is mainly on *cost-benefit analysis*, *operations research*, *mathematical programming and optimisation* with applications to railway problems such as capacity allocation. 
 
