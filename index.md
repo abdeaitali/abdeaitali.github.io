@@ -29,8 +29,8 @@ Here is a list of selected publications
 * Ait-Ali, A., Sedrati, A. (2016). Towards Internet Domain Names in Tifinagh. *Conference Proceedings of TICAM 2016, Rabat.* - **Conference paper** | **[Paper](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ticam16.pdf)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ticam16.pdf)**
 
 ## Projects
-
-* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by Trafikverket.
+* [FR8RAIL 3](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
 
 ## Contacts
 * [Email](mailto:abde.aitali@live.com) 
