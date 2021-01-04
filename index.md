@@ -33,7 +33,7 @@ Here is a list of selected publications
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
 
 ## Contacts
-* [Email](mailto:abde.aitali@live.com) 
+* Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se) - [KTH](mailto:abde@kth.se)
 * [Linkedin](https://www.linkedin.com/in/abdeaitali/)
 * [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1)
