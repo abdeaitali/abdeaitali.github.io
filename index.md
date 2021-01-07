@@ -38,5 +38,6 @@ Here is a list of selected publications
 * [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1)
 * [Github](https://github.com/abdeaitali)
+* [Medium](https://medium.com/@AbdeAitali)
 * [Twitter](https://twitter.com/AbdeAitali)
 * [Facebook](https://www.facebook.com/abde7aitali/)
