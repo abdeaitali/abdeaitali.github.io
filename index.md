@@ -10,6 +10,7 @@ Besides research, Abdou (short for Abderrahman) is also interested in *linguisti
 
 ## Selected publications
 Here is a list of selected publications
+* Ait-Ali, A., Eliasson, J., (2021), European Railway Deregulation: An overview of market organization and capacity allocation, *Transportmetrica A: Transport Science*. [https://doi.org/10.1080/23249935.2021.1885521](https://www.tandfonline.com/doi/full/10.1080/23249935.2021.1885521) - **Journal paper (Open Access)**
 * Ait-Ali, A. (2020). Methods for Capacity Allocation in Deregulated Railway Markets. Linköping Studies in Science and Technology. Dissertation No. 2101. [https://doi.org/10.3384/diss.diva-170193](https://doi.org/10.3384/diss.diva-170193) - **Doctoral thesis** | **[Thesis](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/phdthesis.pdf)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/phd.pdf)** | **[Video](https://youtu.be/5EsgU053MHU)**
 * Ait-Ali, A., Warg, J., Eliasson, J., (2020), Pricing commercial train path requests based on societal costs, *Transportation Research Part A, 132, 452-464*. [https://doi.org/10.1016/j.tra.2019.12.005](https://doi.org/10.1016/j.tra.2019.12.005) - **Journal paper** | **[Paper](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf)**
 * Ait-Ali, A., Lindberg, P. O., Eliasson, J., Nilsson, J., Peterson, A., (2020), A disaggregate bundle method for train timetabling problems, *Journal of Rail Transport Planning & Management*. [https://doi.org/10.1016/j.jrtpm.2020.100200](https://doi.org/10.1016/j.jrtpm.2020.100200) - **Journal paper** | **[Paper](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf)**
@@ -31,6 +32,9 @@ Here is a list of selected publications
 ## Projects
 * [FR8RAIL 3](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
+
+## Media
+* LiU News - How to efficiently allocate railway capacity. **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
 * Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se) - [KTH](mailto:abde@kth.se)
