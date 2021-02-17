@@ -34,7 +34,7 @@ Here is a list of selected publications
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
 
 ## Media
-* LiU News - How to efficiently allocate railway capacity. **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
+* LiU News - How to efficiently allocate railway capacity.| **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
 * Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se) - [KTH](mailto:abde@kth.se)
