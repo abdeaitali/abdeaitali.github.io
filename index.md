@@ -24,7 +24,8 @@ Here is a list of selected publications
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transport Forum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Projects
-* [FR8RAIL 3](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (work package WP4 on quantitative KPI-Tree and SPD integrated assessment), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* [FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
 
 ## Others
