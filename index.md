@@ -42,7 +42,7 @@ Here is a list of selected publications
 * LiU News - How to efficiently allocate railway capacity.| **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
-* Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se) - [KTH](mailto:abde@kth.se)
+* Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se)
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) - [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Linkedin](https://www.linkedin.com/in/abdeaitali/) - [Github](https://github.com/abdeaitali)
 * [Medium](https://medium.com/@AbdeAitali) - [Twitter](https://twitter.com/AbdeAitali) - [Facebook](https://www.facebook.com/abde7aitali/)
