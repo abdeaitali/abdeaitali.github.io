@@ -11,7 +11,6 @@ Besides research, Abdou (short for Abderrahman) is also interested in *linguisti
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
 ## Publications
-Here is a list of selected publications
 * Ait-Ali, A., Eliasson, J., Warg, J., (2021), Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?, *Transport Policy*. [https://dx.doi.org/10.1016/j.tranpol.2021.11.025](https://www.sciencedirect.com/science/article/pii/S0967070X21003462) - **Journal paper** | **[Paper](https://www.sciencedirect.com/science/article/pii/S0967070X21003462)**
 * Ait-Ali, A., Eliasson, J., (2021), The value of additional data for public transport origin–destination matrix estimation, *Public Transport*. [https://doi.org/10.1007/s12469-021-00282-0 ](https://link.springer.com/article/10.1007%2Fs12469-021-00282-0) - **Journal paper** | **[Paper](https://link.springer.com/article/10.1007%2Fs12469-021-00282-0)**
 * Ait-Ali, A., Eliasson, J., (2021), European Railway Deregulation: An overview of market organization and capacity allocation, *Transportmetrica A: Transport Science*. [https://doi.org/10.1080/23249935.2021.1885521](https://www.tandfonline.com/doi/full/10.1080/23249935.2021.1885521) - **Journal paper** | **[Paper](https://www.tandfonline.com/doi/pdf/10.1080/23249935.2021.1885521?needAccess=true)**
@@ -25,6 +24,7 @@ Here is a list of selected publications
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transport Forum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Projects
+* [Mistra InfraMaint] Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
 * [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (work package WP4 on quantitative KPI-Tree and SPD integrated assessment), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * [FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
