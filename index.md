@@ -21,8 +21,8 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * Ait-Ali, A. (2015). Integration of Production Scheduling and Energy Management: Software Development. KTH Royal Institute of Technology, Stockholm. **[Master Thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136)**
 
 ## Presentations
-* *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **Transport Forum 2021.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
-* *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transport Forum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
+* *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **Transportforum 2021.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
+* *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transportforum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Projects
 * [Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
