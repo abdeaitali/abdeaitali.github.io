@@ -2,16 +2,17 @@
 <img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=150 align=right>
 
 ## Bio
-Abderrahman was born in [Ait Melloul](https://goo.gl/maps/eBJYE8a3YLKsdhZw9) (near Agadir), Morocco. He holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)) as well as a Masters degree (in Computer Science and Engineering) from [KTH](https://www.kth.se/profile/abde). In November 2020, he obtained his PhD. degree (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from [Linköping University](https://liu.se/en/about-liu).
-
 Abderrahman is currently working as a researcher at [VTI - The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU](https://liu.se/en/employee/abdai17). His research focus is a combination of transport economics (*socio-economic evaluations*, *cost-benefit analysis*, *life cycle costing*) and mathematical optimisation (*operations research*, *mathematical programming and optimisation*). The research is mainly applied to transportation problems in public transport and railways such as capacity allocation and timetabling, maintenance planning and traffic information.
 
-Besides research, Abdou (short for Abderrahman) is also interested in *linguistics*, *photography* and *history*. He is also contributing to different open source projects such as [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali) (*Wikipedia* and *Wikidata*).
+Abderrahman holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)) as well as a Masters degree (in Computer Science and Engineering) from [KTH](https://www.kth.se/profile/abde). In November 2020, he obtained his PhD. degree (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from [Linköping University](https://liu.se/en/about-liu).
+
+Besides research, Abdou is also interested in *linguistics*, *photography*, *economics* and *history*. He is contributing to different open source projects such as [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali) (*Wikipedia* and *Wikidata*).
 
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
-## Publications
-* Ait Ali, A., & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost-benefit approach. European Journal of Transport and Infrastructure Research, 22(2), 108–131. **[Journal version (open access)](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
+## Selected publications
+* H-Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., Ait-Ali, A., Sundholm, L., Larsson Kråik, P.-O. & Stichel, S. 2023. Simulation-based evaluation of maintenance strategies from a life cycle cost perspective. *Wear*, 532-533, 205120.**[Journal version (open access)](https://doi.org/10.1016/j.wear.2023.205120)**
+* Ait Ali, A., & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost-benefit approach. *European Journal of Transport and Infrastructure Research*, 22(2), 108–131. **[Journal version (open access)](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
 * Ait-Ali, A., Eliasson, J., Warg, J., (2021), Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?, *Transport Policy*. **[Journal paper (open access)](https://dx.doi.org/10.1016/j.tranpol.2021.11.025)**
 * Ait-Ali, A., Eliasson, J., (2021), The value of additional data for public transport origin–destination matrix estimation, *Public Transport*. **[Journal paper (open access)](https://doi.org/10.1007/s12469-021-00282-0)**
 * Ait-Ali, A., Eliasson, J., (2021), European Railway Deregulation: An overview of market organization and capacity allocation, *Transportmetrica A: Transport Science*. **[Journal paper (open access)](https://doi.org/10.1080/23249935.2021.1885521)** 
@@ -25,10 +26,19 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transportforum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Projects
-* [Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
-* [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (work package WP4 on quantitative KPI-Tree and SPD integrated assessment), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
-* [FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
-* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
+* [VTT](https://github.com/abdeaitali/VTT) (2022-2024) Research project, funded by [Trafikverket](https://www.trafikverket.se/), about value of traffic information to passengers during train traffic disruptions, a socio-economic study.
+* [Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/) (2022-2023) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
+* [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (2021-2022) Work package WP4 on quantitative KPI-Tree and SPD integrated assessment, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* [FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (2020-2021) Work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet, 2015-2020) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
+
+## Teaching
+* [Optimization and Statistics in Transportation](https://studieinfo.liu.se/en/kurs/TNK127/ht-2023) The course provides basic insight in optimization, especially optimization of linear, nonlinear and integer problems with applications in transportation. 
+* [Public transportation and rail traffic](https://studieinfo.liu.se/en/kurs/TNK125) The course provides basic knowledge of public transport systems and rail transport. The focus is on tactical planning of public transport.
+
+# Supervision
+* Passengers’ Punctuality in Railways: A comparison of passenger-centric measures of punctuality in rail networks Passenger - **Master thesis**.
+* Public transport usage analysis based on ticket data - **Master thesis**.
 
 ## Others
 * Ait-Ali, A., Lidén, T. (2021). Minimal utilization rates for railway maintenance windows: a cost-benefit approach. *VTI Working Papers Series 2021:8.* Presented at *2021 European Conference of the Society for Benefit-Cost Analysis, SCBA 2021, Stockholm.*. [http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17178](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17178) - **Working paper presented at a conference** | **[Paper](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/vtiwps21_8.pdf)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba21.pdf)**
@@ -41,10 +51,11 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * Ait-Ali, A., Sedrati, A. (2016). Towards Internet Domain Names in Tifinagh. *Conference Proceedings of TICAM 2016, Rabat.* - **Conference paper** | **[Paper](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/ticam16.pdf)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ticam16.pdf)**
 
 ## Media
+* Global Railway Review - Q&A with Abdou Ait-Ali, VTI: Improving railway capacity allocation. | **[News article and video interview](https://www.globalrailwayreview.com/video/142846/qa-with-abdou-ait-ali-vti-improving-railway-capacity-allocation/)**.
 * LiU News - How to efficiently allocate railway capacity.| **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
-* Emails: [Personal](mailto:abde.aitali@live.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se)
+* Emails: [Personal](mailto:abde.aitali@protonmail.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se)
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) - [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Linkedin](https://www.linkedin.com/in/abdeaitali/) - [Github](https://github.com/abdeaitali)
 * [Medium](https://medium.com/@AbdeAitali) - [Twitter](https://twitter.com/AbdeAitali) - [Facebook](https://www.facebook.com/abde7aitali/)
