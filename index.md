@@ -36,7 +36,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * [Optimization and Statistics in Transportation](https://studieinfo.liu.se/en/kurs/TNK127/ht-2023) The course provides basic insight in optimization, especially optimization of linear, nonlinear and integer problems with applications in transportation. 
 * [Public transportation and rail traffic](https://studieinfo.liu.se/en/kurs/TNK125) The course provides basic knowledge of public transport systems and rail transport. The focus is on tactical planning of public transport.
 
-# Supervision
+## Supervision
 * Passengers’ Punctuality in Railways: A comparison of passenger-centric measures of punctuality in rail networks Passenger - **Master thesis**.
 * Public transport usage analysis based on ticket data - **Master thesis**.
 
