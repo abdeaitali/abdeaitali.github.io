@@ -26,6 +26,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transportforum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Projects
+* [K2-ResPunkt](https://github.com/abdeaitali/k2-respunkt) (2024-2025) A Pre-study, funded by [K2 research center](https://www.k2centrum.se/en), exploring measures to monitor passenger-centric punctuality in public transport.
 * [VTT](https://github.com/abdeaitali/VTT) (2022-2024) Research project, funded by [Trafikverket](https://www.trafikverket.se/), about value of traffic information to passengers during train traffic disruptions, a socio-economic study.
 * [Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/) (2022-2023) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
 * [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (2021-2022) Work package WP4 on quantitative KPI-Tree and SPD integrated assessment, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
