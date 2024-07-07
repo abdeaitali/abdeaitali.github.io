@@ -29,6 +29,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 
 ## Projects - Ongoing
 * **Priopunkt** (Samhällsekonomisk prioritering av underhållsåtgärder för ökad punktlighet), or Socio-Economic Prioritization of Maintenance Actions for Improved Punctuality (2024-2026). Priopunkt is funded by [Trafikverket](https://www.trafikverket.se/) and aims to develop a socio-economically based valuation of events and disruptions in the railway system.
+* **RURUT** or resource-efficient maintenance and renewal strategies via look-up tables (2024-2027). RURUT is funded by [Vinnova (InfaSweden)](https://www.vinnova.se/e/strategiska-innovationsprogrammet-infrasweden2030/) and aims to study how look-up tables can be used identify and prioritise maintenance and renewal activities based on their economic efficiency, including environmental effects and other external costs.
 * **[K2-ResPunkt](https://github.com/abdeaitali/k2-respunkt)** (2024-2025) A Pre-study, funded by [K2 research center](https://www.k2centrum.se/en), exploring measures to monitor passenger-centric punctuality in public transport.
 
 ## Projects - Completed
