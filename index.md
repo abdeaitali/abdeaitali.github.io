@@ -1,4 +1,4 @@
-# Abderrahman Ait-Ali (PhD.)
+# Abderrahman Ait-Ali
 <img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=150 align=right>
 
 ## About me
@@ -10,13 +10,13 @@ Besides research, Abdou is also interested in *linguistics*, *photography*, *eco
 
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
-## Selected journal publications
-* **Ait Ali, A.**, Odolinski , K., Pålsson , B., & Torstensson , P. (2024). Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs. European Journal of Transport and Infrastructure Research, 24(1), 1–29.  | **[Paper (open access)](https://doi.org/10.59490/ejtir.2024.24.1.6885)**
-* H-Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., **Ait-Ali, A.**, Sundholm, L., Larsson Kråik, P.-O. & Stichel, S. 2023. Simulation-based evaluation of maintenance strategies from a life cycle cost perspective. *Wear*, 532-533, 205120. | **[Paper (open access)](https://doi.org/10.1016/j.wear.2023.205120)**
-* **Ait Ali, A.**, & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost-benefit approach. *European Journal of Transport and Infrastructure Research*, 22(2), 108–131. | **[Paper (open access)](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
-* **Ait Ali, A.**, Eliasson, J., Warg, J., (2021), Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?, *Transport Policy*.  | **[Paper (open access)](https://dx.doi.org/10.1016/j.tranpol.2021.11.025)**
-* **Ait Ali, A.**, Eliasson, J., (2021), The value of additional data for public transport origin–destination matrix estimation, *Public Transport*. | **[Paper (open access)](https://doi.org/10.1007/s12469-021-00282-0)**
-* **Ait Ali, A.**, Eliasson, J., (2021), European Railway Deregulation: An overview of market organization and capacity allocation, *Transportmetrica A: Transport Science*.  | **[Paper (open access)](https://doi.org/10.1080/23249935.2021.1885521)** 
+## Selected papers
+* **Ait Ali, A.**, Odolinski , K., Pålsson , B., & Torstensson , P. (2024). Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs. European Journal of Transport and Infrastructure Research, 24(1), 1–29.  | **[Paper](https://doi.org/10.59490/ejtir.2024.24.1.6885)**
+* H-Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., **Ait-Ali, A.**, Sundholm, L., Larsson Kråik, P.-O. & Stichel, S. 2023. Simulation-based evaluation of maintenance strategies from a life cycle cost perspective. *Wear*, 532-533, 205120. | **[Paper](https://doi.org/10.1016/j.wear.2023.205120)**
+* **Ait Ali, A.**, & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost-benefit approach. *European Journal of Transport and Infrastructure Research*, 22(2), 108–131. | **[Paper](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
+* **Ait Ali, A.**, Eliasson, J., Warg, J., (2021), Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?, *Transport Policy*.  | **[Paper](https://dx.doi.org/10.1016/j.tranpol.2021.11.025)**
+* **Ait Ali, A.**, Eliasson, J., (2021), The value of additional data for public transport origin–destination matrix estimation, *Public Transport*. | **[Paper](https://doi.org/10.1007/s12469-021-00282-0)**
+* **Ait Ali, A.**, Eliasson, J., (2021), European Railway Deregulation: An overview of market organization and capacity allocation, *Transportmetrica A: Transport Science*.  | **[Paper](https://doi.org/10.1080/23249935.2021.1885521)** 
 * **Ait Ali, A.**, Warg, J., Eliasson, J., (2020), Pricing commercial train path requests based on societal costs, *Transportation Research Part A, 132, 452-464*.  | **[Paper](https://doi.org/10.1016/j.tra.2019.12.005)** | **[Preprint](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf)**
 * **Ait Ali, A.**, Lindberg, P. O., Eliasson, J., Nilsson, J., Peterson, A., (2020), A disaggregate bundle method for train timetabling problems, *Journal of Rail Transport Planning & Management*. | **[Paper](https://doi.org/10.1016/j.jrtpm.2020.100200)** | **[Preprint](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf)**
 
