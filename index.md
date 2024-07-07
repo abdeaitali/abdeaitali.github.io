@@ -56,7 +56,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * **Ait Ali, A.** (2015). Integration of Production Scheduling and Energy Management: Software Development. KTH Royal Institute of Technology, Stockholm.  | **[Thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-160136)**
 
 ## Media
-* Global Railway Review - Q&A with Abdou Ait-Ali, VTI: Improving railway capacity allocation. | **[News article and video interview](https://www.globalrailwayreview.com/video/142846/qa-with-abdou-ait-ali-vti-improving-railway-capacity-allocation/)**.
+* Global Railway Review - Q&A with Abdou Ait-Ali, VTI: Improving railway capacity allocation. | **[Article](https://www.globalrailwayreview.com/video/142846/qa-with-abdou-ait-ali-vti-improving-railway-capacity-allocation/)** | **[Video](https://youtu.be/043fvN_EQns)**
 * LiU News - How to efficiently allocate railway capacity.| **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
