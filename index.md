@@ -10,7 +10,7 @@ Besides research, Abdou is also interested in *linguistics*, *photography*, *eco
 
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
-## Selected papers
+## Journal papers
 * **Ait Ali, A.**, Odolinski , K., Pålsson , B., & Torstensson , P. (2024). Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs. European Journal of Transport and Infrastructure Research, 24(1), 1–29.  | **[Paper](https://doi.org/10.59490/ejtir.2024.24.1.6885)**
 * H-Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., **Ait-Ali, A.**, Sundholm, L., Larsson Kråik, P.-O. & Stichel, S. 2023. Simulation-based evaluation of maintenance strategies from a life cycle cost perspective. *Wear*, 532-533, 205120. | **[Paper](https://doi.org/10.1016/j.wear.2023.205120)**
 * **Ait Ali, A.**, & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost-benefit approach. *European Journal of Transport and Infrastructure Research*, 22(2), 108–131. | **[Paper](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
@@ -21,23 +21,26 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * **Ait Ali, A.**, Lindberg, P. O., Eliasson, J., Nilsson, J., Peterson, A., (2020), A disaggregate bundle method for train timetabling problems, *Journal of Rail Transport Planning & Management*. | **[Paper](https://doi.org/10.1016/j.jrtpm.2020.100200)** | **[Preprint](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf)**
 
   
-## Selected working papers
+## Working papers
 * **Ait-Ali, A.**, Lidén, T. (2021). Minimal utilization rates for railway maintenance windows: a cost-benefit approach. *VTI Working Papers Series 2021:8.* **Presented at** *2021 European Conference of the Society for Benefit-Cost Analysis, SCBA 2021, Stockholm.* | **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17178)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba21.pdf)**
 * **Ait-Ali, A.,** Eliasson, J., Warg, J. (2020). Are commuter train timetables consistent with passengers’ valuations of waiting times and in-vehicle crowding?. *VTI Working Papers Series 2020:1.* **Presented at** *2019 European Conference of the Society for Benefit-Cost Analysis, SCBA 2019, Toulouse.*| **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-14810)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba19.pdf)**
 * **Ait-Ali, A.**, Eliasson, J. (2019). Railway capacity allocation: a survey of market organizations, allocation processes and track access charges. *VTI Working Papers Series 2019:1.*| **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902)**
 * **Ait-Ali, A.**, Eliasson, J. (2019). Dynamic Origin-Destination Estimation Using Smart Card Data: An Entropy Maximisation Approach. *arXiv:1909.02826.* **Presented at** *Rail Norrköping 2019.* | **[Paper](https://arxiv.org/abs/1909.02826)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/odm.pdf)**
 
+## Projects - Ongoing
+* **Priopunkt** (Samhällsekonomisk prioritering av underhållsåtgärder för ökad punktlighet), or Socio-Economic Prioritization of Maintenance Actions for Improved Punctuality (2024-2026). Priopunkt is funded by [Trafikverket](https://www.trafikverket.se/) and aims to develop a socio-economically based valuation of events and disruptions in the railway system.
+* **[K2-ResPunkt](https://github.com/abdeaitali/k2-respunkt)** (2024-2025) A Pre-study, funded by [K2 research center](https://www.k2centrum.se/en), exploring measures to monitor passenger-centric punctuality in public transport.
+
+## Projects - Completed
+* **[VTT](https://github.com/abdeaitali/VTT)** (2022-2024) Research project, funded by [Trafikverket](https://www.trafikverket.se/), about value of traffic information to passengers during train traffic disruptions, a socio-economic study. | **[Final report (in Swedish)](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-204979)**
+* **[Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/)** (2022-2023) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
+* **[IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2)** (2021-2022) Work package WP4 on quantitative KPI-Tree and SPD integrated assessment, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* **[FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii)** (2020-2021) Work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
+* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet, 2015-2020) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
+
 ## Presentations
 * *Estimering av dynamiska origin-destination matriser baserat på entropimaximering*. **Transportforum 2021.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf21.pdf)**
 * *Samhällsekonomisk analys av pendeltågens frekvensk: operatörens värdering av väntetid och trängsel*. **Transportforum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
-
-## Projects
-* [K2-ResPunkt](https://github.com/abdeaitali/k2-respunkt) (2024-2025) A Pre-study, funded by [K2 research center](https://www.k2centrum.se/en), exploring measures to monitor passenger-centric punctuality in public transport.
-* [VTT](https://github.com/abdeaitali/VTT) (2022-2024) Research project, funded by [Trafikverket](https://www.trafikverket.se/), about value of traffic information to passengers during train traffic disruptions, a socio-economic study.
-* [Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/) (2022-2023) Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
-* [IMPACT-2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2) (2021-2022) Work package WP4 on quantitative KPI-Tree and SPD integrated assessment, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
-* [FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii) (2020-2021) Work package WP2 on Real-Time Network Management), funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
-* SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet, 2015-2020) or *Socio-economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
 
 ## Teaching
 * [Optimization and Statistics in Transportation](https://studieinfo.liu.se/en/kurs/TNK127/ht-2023) The course provides basic insight in optimization, especially optimization of linear, nonlinear and integer problems with applications in transportation. 
