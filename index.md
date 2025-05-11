@@ -21,6 +21,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 
   
 ## Working papers
+* **Ait-Ali, A.** (2024). Exploring measures to monitor passenger-centric punctuality in public transport: a pre study. *K2 Working Papers Series 2024:9.*| **[Paper](https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_wp_2024_9_tillg.pdf)**
 * **Ait-Ali, A.**, Lidén, T. (2021). Minimal utilization rates for railway maintenance windows: a cost-benefit approach. *VTI Working Papers Series 2021:8.* **Presented at** *2021 European Conference of the Society for Benefit-Cost Analysis, SCBA 2021, Stockholm.* | **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17178)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba21.pdf)**
 * **Ait-Ali, A.,** Eliasson, J., Warg, J. (2020). Are commuter train timetables consistent with passengers’ valuations of waiting times and in-vehicle crowding?. *VTI Working Papers Series 2020:1.* **Presented at** *2019 European Conference of the Society for Benefit-Cost Analysis, SCBA 2019, Toulouse.*| **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-14810)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/scba19.pdf)**
 * **Ait-Ali, A.**, Eliasson, J. (2019). Railway capacity allocation: a survey of market organizations, allocation processes and track access charges. *VTI Working Papers Series 2019:1.*| **[Paper](http://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902)**
