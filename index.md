@@ -50,6 +50,8 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * Public transport usage analysis based on ticket data - **Master thesis**.
 
 ## Other publications
+ & Ait Ali, A. (2024). 
+* **Ait-Ali, A.**, Peterson, A. (2024). Värdering av trafikinformationsnyttor i tågtrafiken (VTT): slutrapport. VTI-rapport. | **[Rapport (in Swedish)](https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20934)**
 * **Ait-Ali, A.** (2020). Methods for Capacity Allocation in Deregulated Railway Markets. Linköping Studies in Science and Technology. Dissertation No. 2101.  | **[Kappa](https://doi.org/10.3384/diss.diva-170193)** | **[Thesis](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/phdthesis.pdf)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/phd.pdf)** | **[Video](https://youtu.be/5EsgU053MHU)**
 * Warg, J., **Ait-Ali, A.**, Eliasson, J. (2019). Assessment of Commuter Train Timetables Including Transfers. **Presented at** the *21th EURO Working Group on Transportation Meeting, EWGT 2018, Braunschweig.* | **[Paper](https://doi.org/10.1016/j.trpro.2018.12.160)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/ewgt18.pdf)**
 * Sedrati, A., **Ait-Ali, A.** (2019). Moroccan Darija in Online Creation Communities: Example of Wikipedia. *Al-Andalus Magreb*, 26, 11.1-14. | **[Paper](https://doi.org/10.25267/AAM.2019.i26.11)** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/darija.pdf)**
