@@ -1,5 +1,5 @@
 # Abderrahman Ait-Ali
-<img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=150 align=right>
+<img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width="150" align="right" alt="Portrait sketch of Abderrahman">
 
 ## About me
 Abderrahman is a researcher at [VTI - The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU - Linköping University](https://liu.se/en/employee/abdai17) whose work integrates transport economics (socio-economic evaluations, cost–benefit and life-cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and traffic-information in public transport and railways.
