@@ -2,11 +2,9 @@
 <img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width=150 align=right>
 
 ## About me
-Abderrahman is currently working as a researcher at [VTI - The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU - Linköping University](https://liu.se/en/employee/abdai17). His research focus is a combination of transport economics (*socio-economic evaluations*, *cost-benefit analysis*, *life cycle costing*) and mathematical optimisation (*operations research*, *mathematical programming and optimisation*). The research is mainly applied to transportation problems in public transport and railways such as capacity allocation and timetabling, maintenance planning and traffic information.
+Abderrahman is a researcher at [VTI - The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU - Linköping University](https://liu.se/en/employee/abdai17) whose work integrates transport economics (socio-economic evaluations, cost–benefit and life-cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and traffic-information in public transport and railways.
 
-Abderrahman holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)) as well as a Masters degree (in Computer Science and Engineering) from [KTH - Royal Institute of Technology](https://www.kth.se/profile/abde). In November 2020, he obtained his PhD. degree (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from [Linköping University](https://liu.se/en/about-liu).
-
-Besides research, Abdou is also interested in *linguistics*, *photography*, *economics* and *history*. He is contributing to different open source projects such as [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali) (*Wikipedia* and *Wikidata*).
+He holds an engineering diploma (in Computer Science and Applied Mathematics) from Grenoble Institute of Techonology - INP ([Ensimag](https://ensimag.grenoble-inp.fr/)), an M.Sc. (in Computer Science and Engineering) from [KTH - Royal Institute of Technology](https://www.kth.se/), and a PhD (in [Infra-Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik)) from [Linköping University](https://liu.se/en/about-liu). He also engages in linguistics, photography and open-source contributions such as [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali) (*Wikipedia* and *Wikidata*).
 
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
