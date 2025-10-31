@@ -1,7 +1,16 @@
-# Abderrahman Ait-Ali
+---
+layout: home
+---
 
-## About me
-Researcher at [VTI – The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU – Linköping University](https://liu.se/en/employee/abdai17). I combine transport economics (socio‑economic evaluation, cost–benefit analysis, life‑cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and passenger information in public transport and railways.
+# Welcome
+
+I'm a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) and [Linköping University](https://liu.se/en/employee/abdai17), focusing on transport economics and railway systems optimization. My research combines economic analysis with mathematical modeling to improve public transport and railway operations.
+
+## Research Focus
+- Transport Economics & Cost-Benefit Analysis
+- Railway Capacity Allocation & Timetabling
+- Maintenance Planning & Life-cycle Costing
+- Passenger Information Systems
 
 I hold an engineering diploma in Computer Science and Applied Mathematics from Grenoble INP ([Ensimag](https://ensimag.grenoble-inp.fr/)), an M.Sc. in Computer Science and Engineering from [KTH – Royal Institute of Technology](https://www.kth.se/), and a PhD in [Infra‑Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik) from [Linköping University](https://liu.se/en/about-liu). I’m also active in linguistics, photography, and open‑source (notably [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali)).
 
@@ -68,3 +77,26 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) - [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Linkedin](https://www.linkedin.com/in/abdeaitali/) - [Github](https://github.com/abdeaitali)
 * [Medium](https://medium.com/@AbdeAitali) - [Twitter](https://twitter.com/AbdeAitali) - [Facebook](https://www.facebook.com/abde7aitali/)
+For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
+
+---
+
+## Selected (short)
+
+A few recent and representative items; full lists are on the dedicated pages.
+
+### Publications (selected)
+- Ait-Ali, A., Peterson, A. (2025). Assessing the effects of traffic information to passengers: a literature review. — see [Publications](/publications/#selected-journal-papers)
+- Ait-Ali, A., Odolinski, K., Pålsson, B., & Torstensson, P. (2024). Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs. — see [Publications](/publications/#selected-journal-papers)
+
+### Projects (selected)
+- Priopunkt (2024–2026) — Socio‑Economic Prioritization of Maintenance Actions for Improved Punctuality. — see [Projects](/projects/)
+- RURUT (2024–2027) — Resource‑efficient maintenance and renewal strategies. — see [Projects](/projects/)
+
+### Teaching & Supervision
+- Optimization and Statistics in Transportation — see [Teaching](/teaching/)
+- Master thesis supervision — see [Teaching](/teaching/)
+
+---
+
+For contact information and profiles see the [Contact page](/contact/).
