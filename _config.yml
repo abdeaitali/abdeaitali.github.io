@@ -1,1 +1,14 @@
-theme: jekyll-theme-leap-day
+theme: minima
+title: Abderrahman Ait-Ali
+description: Transport Economics & Railway Systems Research
+author: Abderrahman Ait-Ali
+social:
+  github: abdeaitali
+  linkedin: abdeaitali
+  scholar: 3t1aBqYAAAAJ
+header_pages:
+  - about.md
+  - publications.md
+  - projects.md
+  - teaching.md
+  - contact.md
