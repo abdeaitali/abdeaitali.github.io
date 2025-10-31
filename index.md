@@ -64,7 +64,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * LiU News – How to efficiently allocate railway capacity. | **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
-* Email: [Personal](mailto:abde.aitali@protonmail.com) · [VTI](mailto:abderrahman.ait.ali@vti.se) · [LiU](mailto:abderrahman.ait.ali@liu.se)
-* [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) · [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
-* [LinkedIn](https://www.linkedin.com/in/abdeaitali/) · [GitHub](https://github.com/abdeaitali)
-* [Medium](https://medium.com/@AbdeAitali) · [Twitter](https://twitter.com/AbdeAitali) · [Facebook](https://www.facebook.com/abde7aitali/)
+* Emails: [Personal](mailto:abde.aitali@protonmail.com) - [VTI](mailto:abderrahman.ait.ali@vti.se) - [LiU](mailto:abderrahman.ait.ali@liu.se)
+* [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) - [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
+* [Linkedin](https://www.linkedin.com/in/abdeaitali/) - [Github](https://github.com/abdeaitali)
+* [Medium](https://medium.com/@AbdeAitali) - [Twitter](https://twitter.com/AbdeAitali) - [Facebook](https://www.facebook.com/abde7aitali/)
