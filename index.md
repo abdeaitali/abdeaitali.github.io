@@ -1,25 +1,5 @@
-<style>
-  :root { --accent: #0f62fe; --text: #1c1e21; --muted: #606770; --bg: #ffffff; }
-  body { color: var(--text); background: var(--bg); -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-  .container { max-width: 960px; margin: 0 auto; padding: 24px 20px; line-height: 1.7; font-size: 16px; }
-  .container h1 { margin-top: 0; font-size: 2.2rem; letter-spacing: -0.02em; }
-  .container h2 { margin-top: 2.2rem; padding-bottom: 0.4rem; border-bottom: 2px solid #f0f2f5; font-size: 1.35rem; }
-  .container a { color: var(--accent); text-decoration: none; }
-  .container a:hover { text-decoration: underline; }
-  .avatar { float: right; width: 180px; height: 180px; border-radius: 50%; object-fit: cover; margin: 0 0 1rem 1.25rem; box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
-  .meta { color: var(--muted); font-size: 0.95rem; margin-top: -0.4rem; }
-  ul { margin-top: 0.6rem; }
-  li { margin: 0.35rem 0; }
-  @media (max-width: 720px) {
-    .avatar { float: none; display: block; margin: 0 auto 1rem; width: 140px; height: 140px; }
-    .container { padding: 18px 16px; }
-  }
-</style>
-
-<div class="container">
-
 # Abderrahman Ait-Ali
-<img class="avatar" src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width="180" alt="Portrait sketch of Abderrahman">
+<img src="https://github.com/abdeaitali/abdeaitali.github.io/raw/master/images/sketch.jpg" width="150" align="right">
 
 ## About me
 Abderrahman is a researcher at [VTI - The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU - Linköping University](https://liu.se/en/employee/abdai17) whose work integrates transport economics (socio-economic evaluations, cost–benefit and life-cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and traffic-information in public transport and railways.
@@ -89,5 +69,3 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) - [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [Linkedin](https://www.linkedin.com/in/abdeaitali/) - [Github](https://github.com/abdeaitali)
 * [Medium](https://medium.com/@AbdeAitali) - [Twitter](https://twitter.com/AbdeAitali) - [Facebook](https://www.facebook.com/abde7aitali/)
-
-</div>
