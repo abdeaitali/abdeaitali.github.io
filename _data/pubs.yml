@@ -1,0 +1,78 @@
+journal_papers:
+  - year: 2025
+    papers:
+      - title: "Assessing the effects of traffic information to passengers: a literature review"
+        authors: ["Ait‑Ali, A.", "Peterson, A."]
+        journal: "Transportation Research Procedia"
+        volume: "82"
+        pages: "24–42"
+        doi: "10.1016/j.trpro.2024.12.026"
+        bibtex_key: "trpro2025"
+        schema_ld:
+          datePublished: "2025-01-01"
+          author:
+            - name: "Abderrahman Ait-Ali"
+            - name: "Andreas Peterson"
+
+  - year: 2024
+    papers:
+      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life‑cycle costs"
+        authors: ["Ait‑Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
+        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
+        volume: "24"
+        issue: "1"
+        pages: "1–29"
+        doi: "10.59490/ejtir.2024.24.1.6885"
+        bibtex_key: "ejtir2024"
+
+  - year: 2023
+    papers:
+      - title: "Simulation‑based evaluation of maintenance strategies from a life‑cycle cost perspective"
+        authors: ["H‑Nia, S.", "Krishna, V. V.", "Odolinski, K.", "Torstensson, P. T.", "Ait‑Ali, A.", "Sundholm, L.", "Larsson Kråik, P.‑O.", "Stichel, S."]
+        journal: "Wear"
+        volume: "532–533"
+        pages: "205120"
+        doi: "10.1016/j.wear.2023.205120"
+        bibtex_key: "wear2023"
+
+  - year: 2021
+    papers:
+      - title: "Are commuter train timetables consistent with passengers' valuations of waiting times and in‑vehicle crowding?"
+        authors: ["Ait‑Ali, A.", "Eliasson, J.", "Warg, J."]
+        journal: "Transport Policy"
+        doi: "10.1016/j.tranpol.2021.11.025"
+        bibtex_key: "tranpol2021"
+
+      - title: "The value of additional data for public transport OD estimation"
+        authors: ["Ait‑Ali, A.", "Eliasson, J."]
+        journal: "Public Transport"
+        doi: "10.1007/s12469-021-00282-0"
+        bibtex_key: "pt2021"
+
+  - year: 2020
+    papers:
+      - title: "Pricing commercial train path requests based on societal costs"
+        authors: ["Ait‑Ali, A.", "Warg, J.", "Eliasson, J."]
+        journal: "Transportation Research Part A"
+        volume: "132"
+        pages: "452–464"
+        doi: "10.1016/j.tra.2019.12.005"
+        preprint: "https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf"
+        bibtex_key: "tra2020"
+
+      - title: "A disaggregate bundle method for train timetabling problems"
+        authors: ["Ait‑Ali, A.", "Lindberg, P. O.", "Eliasson, J.", "Nilsson, J.", "Peterson, A."]
+        journal: "Journal of Rail Transport Planning & Management"
+        doi: "10.1016/j.jrtpm.2020.100200"
+        preprint: "https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf"
+        bibtex_key: "jrtpm2020"
+
+working_papers:
+  - year: 2024
+    papers:
+      - title: "Exploring measures to monitor passenger‑centric punctuality in public transport: a pre‑study"
+        authors: ["Ait‑Ali, A."]
+        series: "K2 Working Papers Series"
+        number: "2024:9"
+        pdf: "https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_wp_2024_9_tillg.pdf"
+        bibtex_key: "k2wp2024"

@@ -110,6 +110,17 @@ li {
 
 .chip + .chip { margin-left: 0.4rem; }
 
+/* Action chips for publications */
+.chips a {
+  display: inline-block;
+  margin: .1rem .25rem 0 0;
+  padding: .1rem .5rem;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  font-size: .85rem;
+  text-decoration: none;
+}
+
 /* Images and media */
 img {
   max-width: 100%;
