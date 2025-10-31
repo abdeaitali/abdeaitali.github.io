@@ -1,31 +1,55 @@
----
 layout: home
+
+
+# Abderrahman Ait-Ali
+
+**About · Publications · Projects · Teaching · Contact**
+
+## Welcome
+
+I’m a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) and [Linköping University](https://liu.se/en/employee/abdai17) working on transport economics and railway systems optimization. I combine economic analysis with mathematical modeling to improve public transport and railway operations.
+
+### Research focus
+- Transport economics & cost–benefit analysis  
+- Railway capacity allocation & timetabling  
+- Maintenance planning & life‑cycle costing  
+- Passenger information systems
+
+I hold an engineering diploma in Computer Science and Applied Mathematics (Grenoble INP—Ensimag), an M.Sc. in Computer Science and Engineering (KTH), and a PhD in Infra‑Informatics (Linköping University). I’m also active in linguistics, photography, and open‑source (notably Wikimedia).
+
+See my **[CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf)** for details.
+
 ---
-
-# Welcome
-
-I'm a researcher at [VTI](https://www.vti.se/en/employees/abderrahman-ait-ali) and [Linköping University](https://liu.se/en/employee/abdai17), focusing on transport economics and railway systems optimization. My research combines economic analysis with mathematical modeling to improve public transport and railway operations.
-
-## Research Focus
-- Transport Economics & Cost-Benefit Analysis
-- Railway Capacity Allocation & Timetabling
-- Maintenance Planning & Life-cycle Costing
-- Passenger Information Systems
-
-I hold an engineering diploma in Computer Science and Applied Mathematics from Grenoble INP ([Ensimag](https://ensimag.grenoble-inp.fr/)), an M.Sc. in Computer Science and Engineering from [KTH – Royal Institute of Technology](https://www.kth.se/), and a PhD in [Infra‑Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik) from [Linköping University](https://liu.se/en/about-liu). I’m also active in linguistics, photography, and open‑source (notably [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali)).
-
-For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
 ## Selected journal papers
-* **Ait-Ali, A.**, Peterson, A. (2025). Assessing the effects of traffic information to passengers: a literature review. *Transportation Research Procedia*, 82, 24–42. | **[Paper](https://doi.org/10.1016/j.trpro.2024.12.026)**
-* **Ait-Ali, A.**, Odolinski, K., Pålsson, B., & Torstensson, P. (2024). Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs. *European Journal of Transport and Infrastructure Research*, 24(1), 1–29. | **[Paper](https://doi.org/10.59490/ejtir.2024.24.1.6885)**
-* H-Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., **Ait-Ali, A.**, Sundholm, L., Larsson Kråik, P.-O. & Stichel, S. 2023. Simulation-based evaluation of maintenance strategies from a life cycle cost perspective. *Wear*, 532-533, 205120. | **[Paper](https://doi.org/10.1016/j.wear.2023.205120)**
-* **Ait-Ali, A.**, & Lidén, T. (2022). Minimal utilization rate for railway maintenance windows: a cost–benefit approach. *European Journal of Transport and Infrastructure Research*, 22(2), 108–131. | **[Paper](https://doi.org/10.18757/ejtir.2022.22.2.6130)**
-* **Ait-Ali, A.**, Eliasson, J., Warg, J. (2021). Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding? *Transport Policy*. | **[Paper](https://dx.doi.org/10.1016/j.tranpol.2021.11.025)**
-* **Ait-Ali, A.**, Eliasson, J. (2021). The value of additional data for public transport origin–destination matrix estimation. *Public Transport*. | **[Paper](https://doi.org/10.1007/s12469-021-00282-0)**
-* **Ait-Ali, A.**, Eliasson, J. (2021). European railway deregulation: An overview of market organization and capacity allocation. *Transportmetrica A: Transport Science*. | **[Paper](https://doi.org/10.1080/23249935.2021.1885521)** 
-* **Ait-Ali, A.**, Warg, J., Eliasson, J. (2020). Pricing commercial train path requests based on societal costs. *Transportation Research Part A*, 132, 452–464. | **[Paper](https://doi.org/10.1016/j.tra.2019.12.005)** | **[Preprint](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf)**
-* **Ait-Ali, A.**, Lindberg, P. O., Eliasson, J., Nilsson, J., Peterson, A. (2020). A disaggregate bundle method for train timetabling problems. *Journal of Rail Transport Planning & Management*. | **[Paper](https://doi.org/10.1016/j.jrtpm.2020.100200)** | **[Preprint](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf)**
+
+- **2025** — Ait‑Ali, A., Peterson, A. *Assessing the effects of traffic information to passengers: a literature review*. *Transportation Research Procedia*, 82, 24–42.  
+	*Takeaway:* Synthesizes evidence on passenger information impacts during disruptions. **[DOI](/publications/#selected-journal-papers)**
+- **2024** — Ait‑Ali, A., Odolinski, K., Pålsson, B., Torstensson, P. *Evaluating the mix of maintenance activities on railway crossings with respect to life‑cycle costs*. *EJTIR*, 24(1), 1–29.  
+	*Takeaway:* LCC-based guidance on optimal S&C maintenance mixes. **[EJTIR 2024 paper (DOI)](/publications/#selected-journal-papers)**
+- **2023** — H‑Nia, S., Krishna, V. V., Odolinski, K., Torstensson, P. T., Ait‑Ali, A., Sundholm, L., Larsson Kråik, P.‑O., Stichel, S. *Simulation-based evaluation of maintenance strategies from a life‑cycle cost perspective*. *Wear*, 532–533, 205120. **[DOI](/publications/#selected-journal-papers)**
+
+## Selected projects
+
+- **Priopunkt (2024–2026)** — Socio‑economic prioritization of maintenance actions for improved punctuality. *Role:* PI/co‑PI. *Last updated:* 2025‑10. — [Projects](/projects/)
+- **RURUT (2024–2027)** — Resource‑efficient maintenance and renewal strategies via look‑up tables. *Role:* co‑I. *Last updated:* 2025‑10. — [Projects](/projects/)
+
+## Teaching & supervision (selected)
+
+- Optimization and Statistics in Transportation — see [Teaching](/teaching/)  
+- Supervision: Master thesis topics on passenger‑centric punctuality & ticketing analytics — see [Teaching](/teaching/)
+
+---
+
+## Contact
+
+Emails: **[Personal](mailto:abde.aitali@protonmail.com)** · **[VTI](mailto:abderrahman.ait.ali@vti.se)** · **[LiU](mailto:abderrahman.ait.ali@liu.se)**
+
+Profiles: **[Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ)** · **[ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)** · **[LinkedIn](https://www.linkedin.com/in/abdeaitali/)** · **[GitHub](https://github.com/abdeaitali)** · **[Medium](https://medium.com/@AbdeAitali)** · **[X/Twitter](https://twitter.com/AbdeAitali)** · **[Facebook](https://www.facebook.com/abde7aitali/)**
+
+---
+
+Last updated: 2025‑10‑31
 
   
 ## Working papers

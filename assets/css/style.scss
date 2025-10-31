@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import '{{ site.theme }}';
 
 /* Reset and base styles */
 * {
@@ -94,6 +94,21 @@ li {
   color: #6b7280;
   font-size: 0.95rem;
 }
+
+/* Small pill/chip helper for document/action links */
+.chip {
+  display: inline-block;
+  padding: 0.12rem 0.5rem;
+  margin-left: 0.4rem;
+  margin-top: 0.1rem;
+  border: 1px solid #e6e9ed;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: #0f62fe;
+  background: #ffffff;
+}
+
+.chip + .chip { margin-left: 0.4rem; }
 
 /* Images and media */
 img {
