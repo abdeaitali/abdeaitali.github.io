@@ -2,3 +2,14 @@ _site/
 Gemfile.lock
 assets/css/style.scss.bak
 assets/css/style.scss.backup
+
+# System files
+.DS_Store
+._*
+*~
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
