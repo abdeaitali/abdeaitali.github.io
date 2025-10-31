@@ -1,9 +1,9 @@
 # Abderrahman Ait-Ali
 
 ## About me
-Abderrahman is a researcher at [VTI – The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU – Linköping University](https://liu.se/en/employee/abdai17). His work integrates transport economics (socio‑economic evaluation, cost–benefit analysis and life‑cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and passenger information in public transport and railways.
+Researcher at [VTI – The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU – Linköping University](https://liu.se/en/employee/abdai17). I combine transport economics (socio‑economic evaluation, cost–benefit analysis, life‑cycle costing) with mathematical optimisation for capacity allocation, timetabling, maintenance planning and passenger information in public transport and railways.
 
-He holds an engineering diploma in Computer Science and Applied Mathematics from Grenoble INP ([Ensimag](https://ensimag.grenoble-inp.fr/)), an M.Sc. in Computer Science and Engineering from [KTH – Royal Institute of Technology](https://www.kth.se/), and a PhD in [Infra‑Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik) from [Linköping University](https://liu.se/en/about-liu). He is also active in linguistics, photography and open‑source contributions such as [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali) (*Wikipedia* and *Wikidata*).
+I hold an engineering diploma in Computer Science and Applied Mathematics from Grenoble INP ([Ensimag](https://ensimag.grenoble-inp.fr/)), an M.Sc. in Computer Science and Engineering from [KTH – Royal Institute of Technology](https://www.kth.se/), and a PhD in [Infra‑Informatics](https://liu.se/en/article/forskarutbildning-i-infrainformatik) from [Linköping University](https://liu.se/en/about-liu). I’m also active in linguistics, photography, and open‑source (notably [Wikimedia](https://meta.wikimedia.org/wiki/User:Abdeaitali)).
 
 For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/cv.pdf).
 
@@ -29,11 +29,11 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 ## Projects - Ongoing
 * **Priopunkt** (Samhällsekonomisk prioritering av underhållsåtgärder för ökad punktlighet), or Socio‑Economic Prioritization of Maintenance Actions for Improved Punctuality (2024–2026). Priopunkt is funded by [Trafikverket](https://www.trafikverket.se/) and aims to develop a socio‑economically based valuation of events and disruptions in the railway system.
 * **RURUT** – resource‑efficient maintenance and renewal strategies via look‑up tables (2024–2027). RURUT is funded by [Vinnova (InfraSweden)](https://www.vinnova.se/e/strategiska-innovationsprogrammet-infrasweden2030/) and studies how look‑up tables can be used to identify and prioritise maintenance and renewal activities based on economic efficiency, including environmental effects and other external costs.
-* **[ResPunkt](https://github.com/abdeaitali/k2-respunkt)** (2024–2025). A pre‑study funded by the [K2 research center](https://www.k2centrum.se/en), exploring measures to monitor passenger‑centric punctuality in public transport.
+* **[ResPunkt](https://github.com/abdeaitali/k2-respunkt)** (2024–2025). Pre‑study funded by the [K2 research center](https://www.k2centrum.se/en) on measures to monitor passenger‑centric punctuality in public transport.
 
 ## Projects - Completed
 * **[VTT](https://github.com/abdeaitali/VTT)** (2022–2024). Research project funded by [Trafikverket](https://www.trafikverket.se/) on the value of traffic information to passengers during train traffic disruptions (a socio‑economic study). | **[Final report (in Swedish)](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-204979)**
-* **[Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/)** (2022–2023). Models for more effective strategies for maintenance of switches & crossings and for rail grinding.
+* **[Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/)** (2022–2023). Models for effective strategies for maintaining switches & crossings and rail grinding.
 * **[IMPACT‑2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2)** (2021–2022). Work package WP4 on quantitative KPI‑Tree and SPD integrated assessment, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * **[FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii)** (2020–2021). Work package WP2 on real‑time network management, funded by the EU as part of [Shift2Rail](https://shift2rail.org/).
 * SamEff doctoral project (**Sam**hällsekonomiskt **Eff**ektiv fördelning av järnvägskapacitet, 2015–2020), or *Socio‑economically efficient railway capacity allocation*, funded by [Trafikverket](https://www.trafikverket.se/).
@@ -43,8 +43,8 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * *Samhällsekonomisk analys av pendeltågens frekvens: operatörens värdering av väntetid och trängsel*. **Transportforum 2020.** | **[Slides](https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/slides/tf20.pdf)**
 
 ## Teaching
-* [Optimization and Statistics in Transportation](https://studieinfo.liu.se/en/kurs/TNK127/ht-2023). Provides basic insight into optimization, especially linear, nonlinear and integer optimization with applications in transportation.
-* [Public transportation and rail traffic](https://studieinfo.liu.se/en/kurs/TNK125). Provides basic knowledge of public transport systems and rail transport, with a focus on tactical planning.
+* [Optimization and Statistics in Transportation](https://studieinfo.liu.se/en/kurs/TNK127/ht-2023). Introduction to linear, nonlinear and integer optimisation with transportation applications.
+* [Public transportation and rail traffic](https://studieinfo.liu.se/en/kurs/TNK125). Public transport and rail systems with a focus on tactical planning.
 
 ## Supervision
 * Passengers’ punctuality in railways: A comparison of passenger‑centric measures of punctuality in rail networks — **Master thesis**.
@@ -64,7 +64,7 @@ For more details, see [CV](https://github.com/abdeaitali/abdeaitali.github.io/ra
 * LiU News – How to efficiently allocate railway capacity. | **[English](https://liu.se/en/news-item/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)** | **[Swedish](https://liu.se/nyhet/sa-kan-jarnvagskapacitet-tilldelas-pa-ett-effektivt-satt)**
 
 ## Contacts
-* Emails: [Personal](mailto:abde.aitali@protonmail.com) · [VTI](mailto:abderrahman.ait.ali@vti.se) · [LiU](mailto:abderrahman.ait.ali@liu.se)
+* Email: [Personal](mailto:abde.aitali@protonmail.com) · [VTI](mailto:abderrahman.ait.ali@vti.se) · [LiU](mailto:abderrahman.ait.ali@liu.se)
 * [Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAAAAJ&hl=en&authuser=1) · [ResearchGate](https://www.researchgate.net/profile/Abderrahman_Ait-Ali)
 * [LinkedIn](https://www.linkedin.com/in/abdeaitali/) · [GitHub](https://github.com/abdeaitali)
 * [Medium](https://medium.com/@AbdeAitali) · [Twitter](https://twitter.com/AbdeAitali) · [Facebook](https://www.facebook.com/abde7aitali/)
