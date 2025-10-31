@@ -1,0 +1,4 @@
+_site/
+Gemfile.lock
+assets/css/style.scss.bak
+assets/css/style.scss.backup
