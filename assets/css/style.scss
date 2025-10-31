@@ -1,0 +1,59 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom site-wide tweaks */
+:root {
+  --accent: #0f62fe;
+  --text: #1c1e21;
+  --muted: #606770;
+}
+
+html,
+body {
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Constrain content width for readability on large screens */
+.wrapper,
+.container,
+main,
+.content {
+  max-width: 960px;
+}
+
+/* Typography */
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.015em;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.45rem; border-bottom: 2px solid #f0f2f5; padding-bottom: 0.35rem; }
+
+/* Links */
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Lists spacing */
+ul { margin-top: 0.5rem; }
+li { margin: 0.3rem 0; }
+
+/* Muted metadata text helper (if needed) */
+.meta { color: var(--muted); font-size: 0.95rem; }
+
+@media (max-width: 720px) {
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.25rem; }
+}
+
+
