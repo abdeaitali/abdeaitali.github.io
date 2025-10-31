@@ -49,6 +49,12 @@ Profiles: **[Google Scholar](https://scholar.google.com/citations?user=3t1aBqYAA
 
 ---
 
+<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
+Updated: October 2025
+</div>
+
+---
+
 Last updated: 2025‑10‑31
 
   
