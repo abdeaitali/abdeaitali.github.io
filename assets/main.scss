@@ -168,23 +168,24 @@ a:focus-visible {
 }
 
 .home-sidebar {
-  padding: 0 1.25rem 0 0;
+  padding: 1.5rem;
   align-self: start;
-  background: transparent;
-  border-right: 1px solid var(--color-border-soft);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-soft);
+  border-radius: 18px;
 }
 
 .home-sidebar-photo img {
   width: 100%;
-  max-width: 240px;
+  max-width: 260px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: 4px;
+  border-radius: 14px;
   margin: 0 auto;
 }
 
 .home-sidebar-copy {
-  margin-top: 1.1rem;
+  margin-top: 1.5rem;
 }
 
 .home-sidebar-title {
@@ -205,9 +206,41 @@ a:focus-visible {
   font-size: 0.97rem;
 }
 
+.home-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.35rem;
+}
+
+.home-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.6rem;
+  padding: 0 1rem;
+  border: 1px solid var(--color-border-soft);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-accent);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-button-primary {
+  background: var(--color-accent);
+  color: #fff;
+  border-color: transparent;
+}
+
+.home-button:hover,
+.home-button-primary:hover {
+  opacity: 0.9;
+}
+
 .home-sidebar-block {
-  margin-top: 1.25rem;
-  padding-top: 1.15rem;
+  margin-top: 1.5rem;
+  padding-top: 1.4rem;
   border-top: 1px solid var(--color-border-soft);
 }
 
@@ -302,6 +335,16 @@ a:focus-visible {
 .home-list {
   display: grid;
   gap: 0;
+}
+
+.home-theme-grid {
+  gap: 1rem;
+}
+
+@media (min-width: 760px) {
+  .home-theme-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 .home-list-dual {
