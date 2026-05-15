@@ -1,0 +1,30 @@
+<section class="home-section" aria-labelledby="selected-projects">
+  <div class="home-section-header">
+    <div>
+      <p class="home-section-label">Projects</p>
+      <h2 id="selected-projects">Current and selected work</h2>
+    </div>
+    <p class="home-section-link"><a href="/projects/">All projects</a></p>
+  </div>
+
+  <p class="home-section-intro">Current projects in maintenance planning, passenger-centric punctuality, and railway decision support.</p>
+
+  <div class="home-list">
+    {% for project in site.data.projects.current %}
+    {% if project.featured %}
+    <article class="home-list-item">
+      <p class="home-list-meta">{{ project.years }}</p>
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.summary }}</p>
+      {% if project.sponsor %}
+      <p class="home-list-note">Funding: {{ project.sponsor }}</p>
+      {% endif %}
+      <p class="home-inline-links">
+        <a href="/projects/#{{ project.id }}">Project details</a>
+        {% if project.url %}<a href="{{ project.url }}">External link</a>{% endif %}
+      </p>
+    </article>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>

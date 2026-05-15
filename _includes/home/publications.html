@@ -1,0 +1,48 @@
+{% assign featured_publications = "" | split: "" %}
+{% assign sorted_papers = site.data.pubs.journal_papers | sort: "year" | reverse %}
+{% for year_group in sorted_papers %}
+  {% for paper in year_group.papers %}
+    {% if paper.featured %}
+      {% assign featured_publications = featured_publications | push: paper %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<section class="home-section" aria-labelledby="selected-publications">
+  <div class="home-section-header">
+    <div>
+      <p class="home-section-label">Publications</p>
+      <h2 id="selected-publications">Selected publications</h2>
+    </div>
+    <p class="home-section-link"><a href="/publications/">Full list</a></p>
+  </div>
+
+  <p class="home-section-intro">Featured peer-reviewed work, with full publication details available on the publications page.</p>
+
+  <div class="home-publication-list">
+    {% for year_group in sorted_papers %}
+      {% for paper in year_group.papers %}
+        {% if paper.featured %}
+        {% assign title_last = paper.title | slice: -1, 1 %}
+        <article class="home-publication">
+          <p class="home-publication-year">{{ year_group.year }}</p>
+          <div class="home-publication-body">
+            <p class="home-publication-title">{{ paper.title }}</p>
+            <p class="home-publication-citation">
+              {{ paper.authors | join: ", " }}. <em>{{ paper.journal }}</em>{% if paper.volume %}, {{ paper.volume }}{% endif %}{% if paper.issue %}({{ paper.issue }}){% endif %}{% if paper.pages %}, {{ paper.pages }}{% endif %}{% unless title_last == "." or title_last == "?" or title_last == "!" %}.{% endunless %}
+            </p>
+            {% if paper.home_summary %}
+            <p class="home-publication-summary">{{ paper.home_summary }}</p>
+            {% endif %}
+            <p class="home-inline-links">
+              <a href="/publications/#{{ paper.bibtex_key }}">Publication details</a>
+              {% if paper.doi %}<a href="https://doi.org/{{ paper.doi }}">DOI</a>{% endif %}
+              {% if paper.preprint %}<a href="{{ paper.preprint }}">Preprint</a>{% endif %}
+            </p>
+          </div>
+        </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>

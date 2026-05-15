@@ -1,0 +1,38 @@
+{% assign hero = site.data.home.hero %}
+<aside class="home-sidebar" aria-label="Profile">
+  <div class="home-sidebar-photo">
+    <img src="/images/sketch.jpg" alt="Portrait of {{ site.title }}">
+  </div>
+
+  <div class="home-sidebar-copy">
+    <h1 id="home-title" class="home-sidebar-title">{{ site.title }}</h1>
+    <p class="home-sidebar-tagline">{{ hero.kicker }}</p>
+    <p class="home-sidebar-bio">{{ hero.bio }}</p>
+  </div>
+
+  <div class="home-sidebar-block">
+    <p class="home-panel-label">Affiliations</p>
+    <ul class="home-sidebar-list">
+      {% for affiliation in hero.affiliations %}
+      <li>
+        <a href="{{ affiliation.url }}">{{ affiliation.label }}</a>
+        <span>{{ affiliation.note }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="home-sidebar-block">
+    <p class="home-panel-label">Links</p>
+    <ul class="home-sidebar-links">
+      {% for link in hero.primary_links %}
+      <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+      {% endfor %}
+      {% for item in site.data.home.contact.profiles %}
+      {% unless item.label == "Google Scholar" %}
+      <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+      {% endunless %}
+      {% endfor %}
+    </ul>
+  </div>
+</aside>

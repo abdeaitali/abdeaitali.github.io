@@ -8,6 +8,8 @@ journal_papers:
         pages: "24–42"
         doi: "10.1016/j.trpro.2024.12.026"
         bibtex_key: "trpro2025"
+        featured: true
+        home_summary: "Synthesizes evidence on passenger information impacts during disruptions."
         schema_ld:
           datePublished: "2025-01-01"
           author:
@@ -24,6 +26,8 @@ journal_papers:
         pages: "1–29"
         doi: "10.59490/ejtir.2024.24.1.6885"
         bibtex_key: "ejtir2024"
+        featured: true
+        home_summary: "Provides life-cycle cost based guidance on selecting maintenance mixes for switches and crossings."
 
   - year: 2023
     papers:
@@ -34,6 +38,8 @@ journal_papers:
         pages: "205120"
         doi: "10.1016/j.wear.2023.205120"
         bibtex_key: "wear2023"
+        featured: true
+        home_summary: "Evaluates alternative maintenance strategies through simulation and life-cycle cost analysis."
 
   - year: 2021
     papers:
@@ -57,14 +63,14 @@ journal_papers:
         volume: "132"
         pages: "452–464"
         doi: "10.1016/j.tra.2019.12.005"
-        preprint: "https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/TP1.pdf"
+        preprint: "/files/TP1.pdf"
         bibtex_key: "tra2020"
 
       - title: "A disaggregate bundle method for train timetabling problems"
         authors: ["Ait‑Ali, A.", "Lindberg, P. O.", "Eliasson, J.", "Nilsson, J.", "Peterson, A."]
         journal: "Journal of Rail Transport Planning & Management"
         doi: "10.1016/j.jrtpm.2020.100200"
-        preprint: "https://github.com/abdeaitali/abdeaitali.github.io/raw/master/files/BM.pdf"
+        preprint: "/files/BM.pdf"
         bibtex_key: "jrtpm2020"
 
 working_papers:
@@ -76,3 +82,65 @@ working_papers:
         number: "2024:9"
         pdf: "https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_wp_2024_9_tillg.pdf"
         bibtex_key: "k2wp2024"
+  
+  - year: 2021
+    papers:
+      - title: "Minimal utilization rates for railway maintenance windows: a cost‑benefit approach"
+        authors: ["Ait‑Ali, A.", "Lidén, T."]
+        series: "VTI Working Papers Series"
+        number: "2021:8"
+        bibtex_key: "vti2021"
+
+conference_papers:
+  - year: 2021
+    papers:
+      - title: "A Cost-Benefit Analysis of Maintenance Windows in Railway Networks"
+        authors: ["Ait‑Ali, A.", "Lidén, T."]
+        conference: "23rd Euro Working Group on Transportation Meeting (EWGT 2021)"
+        location: "Paris, France"
+        bibtex_key: "ewgt2021"
+
+  - year: 2020
+    papers:
+      - title: "The Cost of Running Fast: Cost-Benefit Analysis of Train Maximum Speeds"
+        authors: ["Ait‑Ali, A.", "Warg, J.", "Eliasson, J."]
+        conference: "22nd Euro Working Group on Transportation Meeting (EWGT 2020)"
+        location: "Virtual Conference"
+        bibtex_key: "ewgt2020"
+
+  - year: 2018
+    papers:
+      - title: "Pricing Commercial Train Path Requests Based on Societal Costs"
+        authors: ["Ait‑Ali, A.", "Warg, J."]
+        conference: "21st Euro Working Group on Transportation Meeting (EWGT 2018)"
+        location: "Braunschweig, Germany"
+        slides: "/files/slides/ewgt18.pdf"
+        bibtex_key: "ewgt2018"
+
+  - year: 2017
+    papers:
+      - title: "Railway Lines Price Setting with Speed Differentiation"
+        authors: ["Ait‑Ali, A.", "Eliasson, J."]
+        conference: "20th Euro Working Group on Transportation Meeting (EWGT 2017)"
+        location: "Budapest, Hungary"
+        slides: "/files/slides/ewgt17.pdf"
+        bibtex_key: "ewgt2017"
+
+other_publications:
+  - year: 2024
+    papers:
+      - title: "Värdering av trafikinformationsnyttor i tågtrafiken (VTT): slutrapport"
+        authors: ["Ait‑Ali, A.", "Peterson, A."]
+        series: "VTI‑rapport"
+        bibtex_key: "vtt2024"
+  
+  - year: 2020
+    papers:
+      - title: "Methods for Capacity Allocation in Deregulated Railway Markets"
+        authors: ["Ait‑Ali, A."]
+        series: "Linköping Studies in Science and Technology"
+        number: "Dissertation No. 2101"
+        pdf: "/files/phdthesis.pdf"
+        thesis: true
+        slides: "/files/slides/phd.pdf"
+        bibtex_key: "phd2020"

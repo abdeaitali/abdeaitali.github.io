@@ -1,0 +1,36 @@
+<section class="home-section home-contact-section" aria-labelledby="contact-overview">
+  <div class="home-section-header">
+    <div>
+      <p class="home-section-label">Contact</p>
+      <h2 id="contact-overview">Talks, contact, and further information</h2>
+    </div>
+    <p class="home-section-link"><a href="/contact/">Contact page</a></p>
+  </div>
+
+  <p class="home-section-intro">Use the contact page for full details, or follow the links below for academic profiles and related sections.</p>
+
+  <div class="home-list home-list-dual">
+    <article class="home-list-item">
+      <h3>Academic contact</h3>
+      <p>{{ site.data.home.contact.email_note }}</p>
+      <ul class="home-link-list">
+        {% for item in site.data.home.contact.emails %}
+        <li><a href="mailto:{{ item.address }}">{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </article>
+
+    <article class="home-list-item">
+      <h3>Profiles and full sections</h3>
+      <ul class="home-link-list">
+        {% for item in site.data.home.contact.profiles %}
+        <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+        {% endfor %}
+        <li><a href="/publications/">Publications</a></li>
+        <li><a href="/research/">Research</a></li>
+        <li><a href="/teaching/">Teaching</a></li>
+        <li><a href="/files/cv.pdf">CV (PDF)</a></li>
+      </ul>
+    </article>
+  </div>
+</section>

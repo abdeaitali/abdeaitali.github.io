@@ -4,15 +4,45 @@ title: Projects
 permalink: /projects/
 ---
 
+<div class="page-intro">
+  <p>Below is an overview of current and completed projects. Links are provided where a public project page or repository is available.</p>
+</div>
+
 ## Current Projects
 
-- **Priopunkt** (2024–2026) - Socio‑Economic Prioritization of Maintenance Actions for Improved Punctuality, funded by Trafikverket.
-- **RURUT** (2024–2027) - Resource‑efficient maintenance and renewal strategies via look‑up tables, funded by Vinnova (InfraSweden).
-- **[ResPunkt](https://github.com/abdeaitali/k2-respunkt)** (2024–2025) - Pre‑study on measures to monitor passenger‑centric punctuality in public transport.
+<div class="project-grid">
+  {% for project in site.data.projects.current %}
+  <article class="project-card" id="{{ project.id }}">
+    <p class="project-card-meta">{{ project.years }}</p>
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.summary }}</p>
+    {% if project.sponsor %}
+    <p class="project-card-note">Funding: {{ project.sponsor }}</p>
+    {% endif %}
+    {% if project.url %}
+    <p class="project-links"><a href="{{ project.url }}">Project link</a></p>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
 
 ## Completed Projects
 
-- **[VTT](https://github.com/abdeaitali/VTT)** (2022–2024) - Value of traffic information to passengers during train traffic disruptions.
-- **[Mistra InfraMaint](https://mistrainframaint.se/en/our-projects/)** (2022–2023) - Models for effective strategies for maintaining switches & crossings and rail grinding.
-- **[IMPACT‑2](https://projects.shift2rail.org/s2r_ipcc_n.aspx?p=IMPACT-2)** (2021–2022) - Work package WP4 on quantitative KPI‑Tree and SPD integrated assessment.
-- **[FR8RAIL III](https://projects.shift2rail.org/s2r_ip5_n.aspx?p=FR8RAIL%20iii)** (2020–2021) - Work package WP2 on real‑time network management.
+<div class="project-grid">
+  {% for project in site.data.projects.completed %}
+  <article class="project-card" id="{{ project.id }}">
+    <p class="project-card-meta">{{ project.years }}</p>
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.summary }}</p>
+    {% if project.url %}
+    <p class="project-links"><a href="{{ project.url }}">Project link</a></p>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
+
+---
+
+<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
+Updated: 2025‑11‑02
+</div>

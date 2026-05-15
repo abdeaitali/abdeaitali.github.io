@@ -1,0 +1,63 @@
+hero:
+  kicker: "Academic researcher in transport economics and railway systems"
+  tagline: "Researcher at VTI and Linköping University"
+  bio: "I work on transport economics and operations research, with a focus on public transport and railway systems. My research combines economic analysis, optimization, and decision support for questions related to capacity, maintenance, punctuality, and passenger information."
+  affiliations:
+    - label: "VTI"
+      url: "https://www.vti.se/en/employees/abderrahman-ait-ali"
+      note: "Swedish National Road and Transport Research Institute"
+    - label: "Linköping University"
+      url: "https://liu.se/en/employee/abdai17"
+      note: "Department of Science and Technology"
+  primary_links:
+    - label: "Curriculum Vitae"
+      url: "/files/cv.pdf"
+      variant: "primary"
+    - label: "Publications"
+      url: "/publications/"
+      variant: "secondary"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=3t1aBqYAAAAJ"
+      variant: "secondary"
+    - label: "Contact"
+      url: "/contact/"
+      variant: "secondary"
+
+research_interests:
+  intro: "My research interests combine transport economics, optimization, and decision support for railway and public transport systems."
+  items:
+    - title: "Transport economics"
+      summary: "Cost-benefit analysis, socio-economic appraisal, and valuation questions in public transport and railway systems."
+    - title: "Capacity and timetabling"
+      summary: "Railway capacity allocation, timetable design, and operational planning under infrastructure and demand constraints."
+    - title: "Maintenance and life-cycle costing"
+      summary: "Decision support for infrastructure maintenance, renewal strategies, and long-term asset management."
+    - title: "Passenger information"
+      summary: "Information provision during disruptions, passenger-centric punctuality, and service quality evaluation."
+
+teaching_snapshot:
+  - title: "Optimization and Statistics in Transportation"
+    summary: "Introduction to linear, nonlinear, and integer optimization with transportation applications."
+    url: "https://studieinfo.liu.se/en/kurs/TNK127/ht-2023"
+  - title: "Public transportation and rail traffic"
+    summary: "Public transport and rail systems with a focus on tactical planning."
+    url: "https://studieinfo.liu.se/en/kurs/TNK125"
+  - title: "Master thesis supervision"
+    summary: "Supervision in passenger-centric punctuality, railway analytics, and public transport data analysis."
+
+contact:
+  email_note: "For academic and collaborative matters, please use the institutional address."
+  emails:
+    - label: "VTI"
+      address: "abderrahman.ait.ali@vti.se"
+    - label: "LiU"
+      address: "abderrahman.ait.ali@liu.se"
+    - label: "Personal"
+      address: "abde.aitali@protonmail.com"
+  profiles:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=3t1aBqYAAAAJ"
+    - label: "GitHub"
+      url: "https://github.com/abdeaitali"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/abdeaitali/"
