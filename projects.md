@@ -40,9 +40,3 @@ permalink: /projects/
   </article>
   {% endfor %}
 </div>
-
----
-
-<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
-Updated: 2025‑11‑02
-</div>

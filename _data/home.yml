@@ -1,27 +1,18 @@
 hero:
-  kicker: "Academic researcher in transport economics and railway systems"
-  tagline: "Researcher at VTI and Linköping University"
-  bio: "I work on transport economics and operations research, with a focus on public transport and railway systems. My research combines economic analysis, optimization, and decision support for questions related to capacity, maintenance, punctuality, and passenger information."
+  bio:
+    - 'Welcome to my homepage. I am a senior researcher at <a href="https://www.vti.se/en/employees/abderrahman-ait-ali">VTI, the Swedish National Road and Transport Research Institute</a>, and an adjunct associate professor at <a href="https://liu.se/en/employee/abdai17">Linköping University</a>.'
+    - "My academic work focuses on transport economics, optimization, and applied transport analysis for public transport and railway systems. Current research includes maintenance prioritization, passenger-centric punctuality, and information during railway disruptions."
   affiliations:
     - label: "VTI"
       url: "https://www.vti.se/en/employees/abderrahman-ait-ali"
-      note: "Swedish National Road and Transport Research Institute"
+      note: "Senior researcher, Swedish National Road and Transport Research Institute"
     - label: "Linköping University"
       url: "https://liu.se/en/employee/abdai17"
-      note: "Department of Science and Technology"
-  primary_links:
-    - label: "Curriculum Vitae"
-      url: "/files/cv.pdf"
-      variant: "primary"
-    - label: "Publications"
-      url: "/publications/"
-      variant: "secondary"
-    - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=3t1aBqYAAAAJ"
-      variant: "secondary"
-    - label: "Contact"
-      url: "/contact/"
-      variant: "secondary"
+      note: "Adjunct associate professor, Department of Science and Technology"
+profile:
+  heading: "I work on decision support for public transport and railway systems."
+  paragraphs:
+    - "My research combines transport economics, optimization, and applied transport analysis, with current work on maintenance prioritization, passenger-centric punctuality, and information during railway disruptions."
 
 research_interests:
   intro: "My research interests combine transport economics, optimization, and decision support for railway and public transport systems."

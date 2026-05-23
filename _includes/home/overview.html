@@ -1,0 +1,9 @@
+<section class="home-section home-overview-section" aria-labelledby="academic-profile">
+  <h2 id="academic-profile">{{ site.data.home.profile.heading }}</h2>
+
+  <div class="home-prose">
+    {% for paragraph in site.data.home.profile.paragraphs %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+  </div>
+</section>

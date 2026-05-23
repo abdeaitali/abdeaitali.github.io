@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <div class="page-intro">
-  <p>I am a researcher at [VTI – The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and [LiU – Linköping University](https://liu.se/en/employee/abdai17). My research combines transport economics with mathematical optimization and decision support for public transport and railway systems.</p>
+  <p>I am a senior researcher at [VTI – The Swedish National Road and Transport Research Institute](https://www.vti.se/en/employees/abderrahman-ait-ali) and an adjunct associate professor at [LiU – Linköping University](https://liu.se/en/employee/abdai17). My research combines transport economics with mathematical optimization and decision support for public transport and railway systems.</p>
 </div>
 
 ## Research Areas
@@ -14,7 +14,7 @@ permalink: /research/
   <p class="page-card-intro">{{ site.data.home.research_interests.intro }}</p>
   <ul class="page-highlight-list">
     {% for interest in site.data.home.research_interests.items %}
-    <li>{{ interest }}</li>
+    <li><strong>{{ interest.title }}.</strong> {{ interest.summary }}</li>
     {% endfor %}
   </ul>
 </div>
@@ -53,9 +53,3 @@ I'm also active in linguistics, photography, and open-source (notably [Wikimedia
 </div>
 
 See my **[CV](/files/cv.pdf)** for details.
-
----
-
-<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
-Updated: 2025‑11‑02
-</div>

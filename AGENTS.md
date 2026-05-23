@@ -1,39 +1,31 @@
-# AGENTS
+# AI Agent Instructions
 
-## Homepage Source
+This repository is a Jekyll-based GitHub Pages site for a personal academic homepage.
 
-- The homepage source lives in `index.md`.
-- Homepage research interests are stored in `_data/home.yml`.
-- Featured homepage projects are rendered from `_data/projects.yml`.
-- Featured homepage publications are rendered from `_data/pubs.yml`.
+## Key facts
 
-## Preferred Tone
+- Site source is the repository root and `_includes`, `_data`, `assets`, `files`, and Markdown pages such as `index.md`, `about.md`, `publications.md`, `projects.md`, `teaching.md`, and `contact.md`.
+- The `_site/` directory is generated output. Do not edit files inside `_site/` directly.
+- Data-driven content is stored in `_data/pubs.yml`, `_data/projects.yml`, and `_data/home.yml`.
+- Styling is customized in `assets/css/style.scss` on top of the `minima` theme from `_config.yml`.
 
-- Keep the tone academic, factual, and concise.
-- Prefer clear research-oriented language over promotional or marketing-style phrasing.
-- Preserve a professional personal-site voice rather than a corporate voice.
+## Workflow
 
-## What Not To Change
+- Use `bundle install` to install dependencies.
+- Use `bundle exec jekyll build` to build the site.
+- Use `bundle exec jekyll serve` to preview locally.
+- Changes belong in source files and data files, not in `_site/`.
 
-- Do not migrate the site away from Jekyll/Markdown/Liquid unless explicitly requested.
-- Do not introduce a major visual redesign without explicit approval.
-- Do not remove the academic framing of the homepage, publications, projects, teaching, or contact pages.
-- Do not add decorative UI patterns that make the site feel less formal.
-- Do not overwrite unrelated user edits in the worktree.
+## What to edit
 
-## Preview And Build
+- Update publications via `_data/pubs.yml`.
+- Update projects via `_data/projects.yml`.
+- Update homepage selections via `_data/home.yml`.
+- Update page content via the corresponding `.md` file in the repository root.
+- Keep downloads in `files/` and link to them using `/files/...` paths.
 
-- Install dependencies with `bundle install`.
-- Build the site with `bundle exec jekyll build`.
-- Preview locally with `bundle exec jekyll serve`.
-- The local preview is typically available at `http://127.0.0.1:4000`.
+## Notes for agents
 
-## Publication Formatting Rules
-
-- Publication data lives in `_data/pubs.yml`.
-- Keep entries structured in the existing year-group format.
-- Use sentence-style titles and preserve accurate author order.
-- Avoid broken action links; only include DOI, PDF, slides, video, or preprint links that actually exist.
-- Keep homepage-featured publications marked with `featured: true`.
-- Use `home_summary` only for concise homepage summaries, not full abstracts.
-- Preserve publication anchors via `bibtex_key` so homepage links remain stable.
+- Preserve existing Jekyll front matter and markdown structure.
+- Prefer adding or updating source markdown/data files over touching generated output.
+- If asked about the site structure, refer to `README.md` for higher-level documentation.

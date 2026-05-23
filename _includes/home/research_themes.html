@@ -1,9 +1,7 @@
 <section class="home-section home-intro-section" aria-labelledby="research-themes">
-  <p class="home-kicker">Research</p>
-  <h2 id="research-themes">Transport economics, optimization, and railway systems</h2>
-  <p class="home-section-intro">{{ site.data.home.research_interests.intro }}</p>
+  <h2 id="research-themes">Research interests</h2>
 
-  <div class="home-theme-grid">
+  <div class="home-theme-list">
     {% for interest in site.data.home.research_interests.items %}
     <article class="home-list-item">
       <h3>{{ interest.title }}</h3>

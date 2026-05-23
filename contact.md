@@ -41,9 +41,3 @@ permalink: /contact/
   <p>Download the full academic CV as a PDF.</p>
   <p><a class="button" href="/files/cv.pdf">CV (PDF)</a></p>
 </section>
-
----
-
-<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
-Updated: 2025‑11‑02
-</div>

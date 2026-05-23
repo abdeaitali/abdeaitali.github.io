@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 :root {
-  --color-page: #fbfbf8;
+  --color-page: #fbfbf9;
   --color-surface: #ffffff;
-  --color-surface-muted: #f5f4ef;
+  --color-surface-muted: #f3f5f6;
   --color-ink: #1c2430;
   --color-heading: #132236;
   --color-body: #314256;
@@ -149,12 +149,12 @@ a:focus-visible {
 }
 
 .home-page {
-  display: grid;
-  gap: 2.5rem;
+  max-width: 760px;
 }
 
 .home-main {
   min-width: 0;
+  max-width: none;
 }
 
 .home-kicker,
@@ -168,20 +168,19 @@ a:focus-visible {
 }
 
 .home-sidebar {
-  padding: 1.5rem;
+  padding: 0;
   align-self: start;
-  background: var(--color-surface);
-  border: 1px solid var(--color-border-soft);
-  border-radius: 18px;
+  background: transparent;
 }
 
 .home-sidebar-photo img {
   width: 100%;
-  max-width: 260px;
+  max-width: 180px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: 14px;
-  margin: 0 auto;
+  border-radius: 6px;
+  margin: 0;
+  border: 1px solid var(--color-border-soft);
 }
 
 .home-sidebar-copy {
@@ -189,8 +188,8 @@ a:focus-visible {
 }
 
 .home-sidebar-title {
-  font-size: 2rem;
-  line-height: 1.02;
+  font-size: 1.7rem;
+  line-height: 1.08;
 }
 
 .home-sidebar-tagline {
@@ -203,7 +202,12 @@ a:focus-visible {
 .home-sidebar-bio {
   margin-top: 0.85rem;
   color: var(--color-body);
-  font-size: 0.97rem;
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.home-sidebar-bio p + p {
+  margin-top: 0.75rem;
 }
 
 .home-hero-actions {
@@ -217,12 +221,13 @@ a:focus-visible {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.6rem;
-  padding: 0 1rem;
+  min-height: 2.35rem;
+  padding: 0 0.85rem;
   border: 1px solid var(--color-border-soft);
-  border-radius: 999px;
+  border-radius: 4px;
   background: var(--color-surface);
   color: var(--color-accent);
+  font-size: 0.92rem;
   font-weight: 700;
   text-decoration: none;
 }
@@ -239,8 +244,8 @@ a:focus-visible {
 }
 
 .home-sidebar-block {
-  margin-top: 1.5rem;
-  padding-top: 1.4rem;
+  margin-top: 1.35rem;
+  padding-top: 1.2rem;
   border-top: 1px solid var(--color-border-soft);
 }
 
@@ -279,7 +284,7 @@ a:focus-visible {
 }
 
 .home-section {
-  padding-top: 2.2rem;
+  padding-top: 2.45rem;
   border-top: 1px solid var(--color-border-soft);
 }
 
@@ -293,20 +298,57 @@ a:focus-visible {
 
 .home-section-header h2 {
   margin-top: 0.4rem;
-  font-size: 1.7rem;
+  font-size: 1.52rem;
   line-height: 1.12;
 }
 
-.home-intro-section {
+.home-overview-section {
   padding-top: 0;
   border-top: 0;
 }
 
-.home-intro-section h2 {
-  margin-top: 0.4rem;
-  max-width: 16ch;
-  font-size: clamp(2rem, 4vw, 3.05rem);
-  line-height: 1.02;
+.home-overview-section h2 {
+  max-width: 28ch;
+  font-size: clamp(1.55rem, 2.6vw, 2.05rem);
+  line-height: 1.18;
+}
+
+.home-prose {
+  max-width: 46rem;
+  margin-top: 0.8rem;
+  color: var(--color-body);
+  font-size: 1rem;
+}
+
+.home-prose p + p {
+  margin-top: 0.85rem;
+}
+
+.home-fact-list {
+  display: grid;
+  gap: 0;
+  margin: 1.55rem 0 0;
+  border-top: 1px solid var(--color-border-soft);
+}
+
+.home-fact-list div {
+  display: grid;
+  gap: 0.25rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--color-border-soft);
+}
+
+.home-fact-list dt {
+  color: var(--color-muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.home-fact-list dd {
+  margin: 0;
+  color: var(--color-body);
 }
 
 .home-section-intro {
@@ -330,21 +372,10 @@ a:focus-visible {
   color: var(--color-accent);
 }
 
-.home-theme-grid,
 .home-theme-list,
 .home-list {
   display: grid;
   gap: 0;
-}
-
-.home-theme-grid {
-  gap: 1rem;
-}
-
-@media (min-width: 760px) {
-  .home-theme-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
 }
 
 .home-list-dual {
@@ -385,7 +416,8 @@ a:focus-visible {
 
 .home-publication-list {
   display: grid;
-  gap: 1rem;
+  gap: 0;
+  border-top: 1px solid var(--color-border-soft);
 }
 
 .home-publication {
@@ -396,7 +428,7 @@ a:focus-visible {
 }
 
 .home-publication:first-child {
-  border-top: 1px solid var(--color-border-soft);
+  border-top: 0;
 }
 
 .home-publication-year {
@@ -408,7 +440,7 @@ a:focus-visible {
 .home-publication-title {
   font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   color: var(--color-heading);
-  font-size: 1.18rem;
+  font-size: 1.08rem;
   line-height: 1.35;
 }
 
@@ -420,6 +452,7 @@ a:focus-visible {
 .home-publication-summary {
   margin-top: 0.55rem;
   color: var(--color-body);
+  font-size: 0.96rem;
 }
 
 .home-inline-links {
@@ -564,21 +597,19 @@ a:focus-visible {
 }
 
 .site-footer .wrapper {
-  min-height: 1.5rem;
+  padding-top: 1.2rem;
+  padding-bottom: 1.4rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.site-footer p + p {
+  margin-top: 0.15rem;
 }
 
 @media (min-width: 760px) {
-  .home-page {
-    grid-template-columns: minmax(250px, 300px) minmax(0, 1fr);
-    align-items: start;
-    gap: 2.5rem;
-  }
-
-  .home-sidebar {
-    position: sticky;
-    top: 6rem;
-  }
-
   .home-publication {
     grid-template-columns: 72px minmax(0, 1fr);
     gap: 1.2rem;

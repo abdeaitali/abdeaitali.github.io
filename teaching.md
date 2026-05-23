@@ -20,9 +20,3 @@ permalink: /teaching/
 
 - Passengers' punctuality in railways: A comparison of passenger‑centric measures of punctuality in rail networks — **Master thesis**.
 - Public transport usage analysis based on ticket data — **Master thesis**.
-
----
-
-<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
-Updated: 2025‑11‑02
-</div>

@@ -96,10 +96,3 @@ A list of peer-reviewed publications (newest first). Action chips are provided w
   {% endif %}
 {% endfor %}
 {% endfor %}
-
-
----
-
-<div style="text-align: center; font-size: 0.9em; margin-top: 3em; color: #555;">
-Updated: 2025‑11‑02
-</div>

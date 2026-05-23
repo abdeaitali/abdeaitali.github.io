@@ -1,40 +1,15 @@
 {% assign hero = site.data.home.hero %}
 <aside class="home-sidebar" aria-label="Profile">
   <div class="home-sidebar-photo">
-    <img src="/images/sketch.jpg" alt="Portrait of {{ site.title }}">
+    <img src="/images/profile.jpeg" alt="Portrait of {{ site.title }}">
   </div>
 
   <div class="home-sidebar-copy">
-    <p class="home-kicker">{{ hero.kicker }}</p>
     <h1 id="home-title" class="home-sidebar-title">{{ site.title }}</h1>
-    <p class="home-sidebar-tagline">{{ hero.tagline }}</p>
-    <p class="home-sidebar-bio">{{ hero.bio }}</p>
-
-    <div class="home-hero-actions">
-      {% for link in hero.primary_links %}
-      <a class="home-button {% if link.variant == 'primary' %}home-button-primary{% endif %}" href="{{ link.url }}">{{ link.label }}</a>
+    <div class="home-sidebar-bio">
+      {% for paragraph in hero.bio %}
+      <p>{{ paragraph }}</p>
       {% endfor %}
     </div>
-  </div>
-
-  <div class="home-sidebar-block">
-    <p class="home-panel-label">Affiliations</p>
-    <ul class="home-sidebar-list">
-      {% for affiliation in hero.affiliations %}
-      <li>
-        <a href="{{ affiliation.url }}">{{ affiliation.label }}</a>
-        <span>{{ affiliation.note }}</span>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-
-  <div class="home-sidebar-block">
-    <p class="home-panel-label">More links</p>
-    <ul class="home-sidebar-links">
-      {% for item in site.data.home.contact.profiles %}
-      <li><a href="{{ item.url }}">{{ item.label }}</a></li>
-      {% endfor %}
-    </ul>
   </div>
 </aside>
