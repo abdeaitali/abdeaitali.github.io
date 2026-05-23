@@ -168,9 +168,16 @@ a:focus-visible {
 }
 
 .home-sidebar {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
   padding: 0;
   align-self: start;
   background: transparent;
+}
+
+.home-sidebar-photo {
+  flex: 0 0 auto;
 }
 
 .home-sidebar-photo img {
@@ -184,7 +191,8 @@ a:focus-visible {
 }
 
 .home-sidebar-copy {
-  margin-top: 1.5rem;
+  flex: 1;
+  margin-top: 0;
 }
 
 .home-sidebar-title {
@@ -200,7 +208,7 @@ a:focus-visible {
 }
 
 .home-sidebar-bio {
-  margin-top: 0.85rem;
+  margin-top: 0;
   color: var(--color-body);
   font-size: 0.98rem;
   line-height: 1.65;
@@ -662,8 +670,13 @@ a:focus-visible {
   }
 
   .home-sidebar {
+    flex-direction: column;
     padding-right: 0;
     border-right: 0;
+  }
+
+  .home-sidebar-copy {
+    margin-top: 1.5rem;
   }
 
   .page-content {
