@@ -1,20 +1,27 @@
 journal_papers:
   - year: 2025
     papers:
-      - title: "Assessing the effects of traffic information to passengers: a literature review"
-        authors: ["Ait‑Ali, A.", "Peterson, A."]
-        journal: "Transportation Research Procedia"
-        volume: "82"
-        pages: "24–42"
-        doi: "10.1016/j.trpro.2024.12.026"
-        bibtex_key: "trpro2025"
+      - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
+        authors: ["Ait‑Ali, A.", "Hossein-Nia, S.", "Odolinski, K.", "Torstensson, P.", "Stichel, S."]
+        journal: "Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit"
+        volume: "239"
+        issue: "9"
+        pages: "804–816"
+        doi: "10.1177/09544097251360450"
+        bibtex_key: "imeche2025"
+
+  - year: 2024
+    papers:
+      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life‑cycle costs"
+        authors: ["Ait‑Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
+        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
+        volume: "24"
+        issue: "1"
+        pages: "1–29"
+        doi: "10.59490/ejtir.2024.24.1.6885"
+        bibtex_key: "ejtir2024"
         featured: true
-        home_summary: "Synthesizes evidence on passenger information impacts during disruptions."
-        schema_ld:
-          datePublished: "2025-01-01"
-          author:
-            - name: "Abderrahman Ait-Ali"
-            - name: "Andreas Peterson"
+        home_summary: "Provides life-cycle cost based guidance on selecting maintenance mixes for switches and crossings."
 
   - year: 2024
     papers:
@@ -40,6 +47,32 @@ journal_papers:
         bibtex_key: "wear2023"
         featured: true
         home_summary: "Evaluates alternative maintenance strategies through simulation and life-cycle cost analysis."
+
+      - title: "Assessing Innovations in High-Speed Rail Infrastructure"
+        authors: ["Ait‑Ali, A.", "Kurt, F.", "Isberner, A.", "Odolinski, K.", "Berg, M."]
+        journal: "Springer Proceedings in Business and Economics"
+        pages: "217–233"
+        doi: "10.1007/978-3-031-26340-8_13"
+        bibtex_key: "springer2023"
+
+  - year: 2022
+    papers:
+      - title: "Minimal utilization rate for railway maintenance windows: a cost-benefit approach"
+        authors: ["Ait‑Ali, A.", "Lidén, T."]
+        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
+        volume: "22"
+        issue: "2"
+        doi: "10.18757/ejtir.2022.22.2.6130"
+        bibtex_key: "ejtir2022"
+
+      - title: "European railway deregulation: an overview of market organization and capacity allocation"
+        authors: ["Ait‑Ali, A.", "Eliasson, J."]
+        journal: "Transportmetrica A: Transport Science"
+        volume: "18"
+        issue: "3"
+        pages: "594–618"
+        doi: "10.1080/23249935.2021.1885521"
+        bibtex_key: "transportmetrica2022"
 
   - year: 2021
     papers:
@@ -100,13 +133,30 @@ conference_papers:
         location: "Paris, France"
         bibtex_key: "ewgt2021"
 
-  - year: 2020
+  - year: 2026
     papers:
-      - title: "The Cost of Running Fast: Cost-Benefit Analysis of Train Maximum Speeds"
-        authors: ["Ait‑Ali, A.", "Warg, J.", "Eliasson, J."]
-        conference: "22nd Euro Working Group on Transportation Meeting (EWGT 2020)"
-        location: "Virtual Conference"
-        bibtex_key: "ewgt2020"
+      - title: "Integrating demand data with train delay models: a socio-economic evaluation for maintenance planning"
+        authors: ["Ait‑Ali, A.", "Ranjbar, Z.", "Joborn, M."]
+        conference: "Transportation Research Procedia"
+        pages: "177–184"
+        doi: "10.1016/j.trpro.2026.02.023"
+        bibtex_key: "trpro2026"
+
+  - year: 2025
+    papers:
+      - title: "Assessing the effects of traffic information to passengers: a literature review"
+        authors: ["Ait‑Ali, A.", "Peterson, A."]
+        conference: "Transportation Research Procedia"
+        pages: "24–42"
+        doi: "10.1016/j.trpro.2024.12.026"
+        bibtex_key: "trpro2025"
+        featured: true
+        home_summary: "Synthesizes evidence on passenger information impacts during disruptions."
+        schema_ld:
+          datePublished: "2025-01-01"
+          author:
+            - name: "Abderrahman Ait-Ali"
+            - name: "Andreas Peterson"
 
   - year: 2018
     papers:
@@ -116,15 +166,6 @@ conference_papers:
         location: "Braunschweig, Germany"
         slides: "/files/slides/ewgt18.pdf"
         bibtex_key: "ewgt2018"
-
-  - year: 2017
-    papers:
-      - title: "Railway Lines Price Setting with Speed Differentiation"
-        authors: ["Ait‑Ali, A.", "Eliasson, J."]
-        conference: "20th Euro Working Group on Transportation Meeting (EWGT 2017)"
-        location: "Budapest, Hungary"
-        slides: "/files/slides/ewgt17.pdf"
-        bibtex_key: "ewgt2017"
 
 other_publications:
   - year: 2024
