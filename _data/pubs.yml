@@ -1,154 +1,129 @@
+preprints: []
+
 journal_papers:
   - year: 2025
     papers:
       - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
-        authors: ["Ait‑Ali, A.", "Hossein-Nia, S.", "Odolinski, K.", "Torstensson, P.", "Stichel, S."]
+        authors: ["Ait-Ali, A.", "Hossein-Nia, S.", "Odolinski, K.", "Torstensson, P.", "Stichel, S."]
         journal: "Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit"
         volume: "239"
         issue: "9"
-        pages: "804–816"
+        pages: "804-816"
         doi: "10.1177/09544097251360450"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22133"
         bibtex_key: "imeche2025"
 
   - year: 2024
     papers:
-      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life‑cycle costs"
-        authors: ["Ait‑Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
-        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
+      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs"
+        authors: ["Ait-Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
+        journal: "European Journal of Transport and Infrastructure Research"
         volume: "24"
         issue: "1"
-        pages: "1–29"
+        pages: "1-29"
         doi: "10.59490/ejtir.2024.24.1.6885"
-        bibtex_key: "ejtir2024"
-        featured: true
-        home_summary: "Provides life-cycle cost based guidance on selecting maintenance mixes for switches and crossings."
-
-  - year: 2024
-    papers:
-      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life‑cycle costs"
-        authors: ["Ait‑Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
-        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
-        volume: "24"
-        issue: "1"
-        pages: "1–29"
-        doi: "10.59490/ejtir.2024.24.1.6885"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21119"
         bibtex_key: "ejtir2024"
         featured: true
         home_summary: "Provides life-cycle cost based guidance on selecting maintenance mixes for switches and crossings."
 
   - year: 2023
     papers:
-      - title: "Simulation‑based evaluation of maintenance strategies from a life‑cycle cost perspective"
-        authors: ["H‑Nia, S.", "Krishna, V. V.", "Odolinski, K.", "Torstensson, P. T.", "Ait‑Ali, A.", "Sundholm, L.", "Larsson Kråik, P.‑O.", "Stichel, S."]
+      - title: "Simulation-based evaluation of maintenance strategies from a life cycle cost perspective"
+        authors: ["H-Nia, S.", "Krishna, V. V.", "Odolinski, K.", "Torstensson, P.", "Ait-Ali, A.", "Sundholm, L.", "Larsson Kråik, P.-O.", "Stichel, S."]
         journal: "Wear"
-        volume: "532–533"
+        volume: "532-533"
         pages: "205120"
         doi: "10.1016/j.wear.2023.205120"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-19578"
         bibtex_key: "wear2023"
         featured: true
         home_summary: "Evaluates alternative maintenance strategies through simulation and life-cycle cost analysis."
 
-      - title: "Assessing Innovations in High-Speed Rail Infrastructure"
-        authors: ["Ait‑Ali, A.", "Kurt, F.", "Isberner, A.", "Odolinski, K.", "Berg, M."]
-        journal: "Springer Proceedings in Business and Economics"
-        pages: "217–233"
-        doi: "10.1007/978-3-031-26340-8_13"
-        bibtex_key: "springer2023"
-
   - year: 2022
     papers:
-      - title: "Minimal utilization rate for railway maintenance windows: a cost-benefit approach"
-        authors: ["Ait‑Ali, A.", "Lidén, T."]
-        journal: "European Journal of Transport and Infrastructure Research (EJTIR)"
-        volume: "22"
-        issue: "2"
-        doi: "10.18757/ejtir.2022.22.2.6130"
-        bibtex_key: "ejtir2022"
-
       - title: "European railway deregulation: an overview of market organization and capacity allocation"
-        authors: ["Ait‑Ali, A.", "Eliasson, J."]
+        authors: ["Ait-Ali, A.", "Eliasson, J."]
         journal: "Transportmetrica A: Transport Science"
         volume: "18"
         issue: "3"
-        pages: "594–618"
+        pages: "594-618"
         doi: "10.1080/23249935.2021.1885521"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-16002"
         bibtex_key: "transportmetrica2022"
 
-  - year: 2021
-    papers:
-      - title: "Are commuter train timetables consistent with passengers' valuations of waiting times and in‑vehicle crowding?"
-        authors: ["Ait‑Ali, A.", "Eliasson, J.", "Warg, J."]
-        journal: "Transport Policy"
-        doi: "10.1016/j.tranpol.2021.11.025"
-        bibtex_key: "tranpol2021"
-
-      - title: "The value of additional data for public transport OD estimation"
-        authors: ["Ait‑Ali, A.", "Eliasson, J."]
+      - title: "The value of additional data for public transport origin-destination matrix estimation"
+        authors: ["Ait-Ali, A.", "Eliasson, J."]
         journal: "Public Transport"
+        volume: "14"
+        issue: "2"
+        pages: "419-439"
         doi: "10.1007/s12469-021-00282-0"
-        bibtex_key: "pt2021"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17113"
+        bibtex_key: "pt2022"
+
+      - title: "Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?"
+        authors: ["Ait-Ali, A.", "Eliasson, J.", "Warg, J."]
+        journal: "Transport Policy"
+        volume: "116"
+        pages: "188-198"
+        doi: "10.1016/j.tranpol.2021.11.025"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17562"
+        bibtex_key: "tranpol2022"
+
+      - title: "Minimal utilization rate for railway maintenance windows: a cost-benefit approach"
+        authors: ["Ait-Ali, A.", "Lidén, T."]
+        journal: "European Journal of Transport and Infrastructure Research"
+        volume: "22"
+        issue: "2"
+        pages: "108-131"
+        doi: "10.18757/ejtir.2022.22.2.6130"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-18660"
+        bibtex_key: "ejtir2022"
 
   - year: 2020
     papers:
       - title: "Pricing commercial train path requests based on societal costs"
-        authors: ["Ait‑Ali, A.", "Warg, J.", "Eliasson, J."]
-        journal: "Transportation Research Part A"
+        authors: ["Ait-Ali, A.", "Warg, J.", "Eliasson, J."]
+        journal: "Transportation Research Part A: Policy and Practice"
         volume: "132"
-        pages: "452–464"
+        pages: "452-464"
         doi: "10.1016/j.tra.2019.12.005"
         preprint: "/files/TP1.pdf"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15015"
         bibtex_key: "tra2020"
 
       - title: "A disaggregate bundle method for train timetabling problems"
-        authors: ["Ait‑Ali, A.", "Lindberg, P. O.", "Eliasson, J.", "Nilsson, J.", "Peterson, A."]
+        authors: ["Ait-Ali, A.", "Lindberg, P. O.", "Eliasson, J.", "Nilsson, J.-E.", "Peterson, A."]
         journal: "Journal of Rail Transport Planning & Management"
+        volume: "16"
+        pages: "100200"
         doi: "10.1016/j.jrtpm.2020.100200"
         preprint: "/files/BM.pdf"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15288"
         bibtex_key: "jrtpm2020"
 
-working_papers:
-  - year: 2024
-    papers:
-      - title: "Exploring measures to monitor passenger‑centric punctuality in public transport: a pre‑study"
-        authors: ["Ait‑Ali, A."]
-        series: "K2 Working Papers Series"
-        number: "2024:9"
-        pdf: "https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_wp_2024_9_tillg.pdf"
-        bibtex_key: "k2wp2024"
-  
-  - year: 2021
-    papers:
-      - title: "Minimal utilization rates for railway maintenance windows: a cost‑benefit approach"
-        authors: ["Ait‑Ali, A.", "Lidén, T."]
-        series: "VTI Working Papers Series"
-        number: "2021:8"
-        bibtex_key: "vti2021"
-
 conference_papers:
-  - year: 2021
-    papers:
-      - title: "A Cost-Benefit Analysis of Maintenance Windows in Railway Networks"
-        authors: ["Ait‑Ali, A.", "Lidén, T."]
-        conference: "23rd Euro Working Group on Transportation Meeting (EWGT 2021)"
-        location: "Paris, France"
-        bibtex_key: "ewgt2021"
-
   - year: 2026
     papers:
-      - title: "Integrating demand data with train delay models: a socio-economic evaluation for maintenance planning"
-        authors: ["Ait‑Ali, A.", "Ranjbar, Z.", "Joborn, M."]
+      - title: "Integrating demand data with train delay models: A socio-economic evaluation for maintenance planning"
+        authors: ["Ait-Ali, A.", "Ranjbar, Z.", "Joborn, M."]
         conference: "Transportation Research Procedia"
-        pages: "177–184"
+        volume: "95"
+        pages: "177-184"
         doi: "10.1016/j.trpro.2026.02.023"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22598"
         bibtex_key: "trpro2026"
 
   - year: 2025
     papers:
       - title: "Assessing the effects of traffic information to passengers: a literature review"
-        authors: ["Ait‑Ali, A.", "Peterson, A."]
+        authors: ["Ait-Ali, A.", "Peterson, A."]
         conference: "Transportation Research Procedia"
-        pages: "24–42"
+        volume: "82"
+        pages: "24-42"
         doi: "10.1016/j.trpro.2024.12.026"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21602"
         bibtex_key: "trpro2025"
         featured: true
         home_summary: "Synthesizes evidence on passenger information impacts during disruptions."
@@ -158,30 +133,338 @@ conference_papers:
             - name: "Abderrahman Ait-Ali"
             - name: "Andreas Peterson"
 
+      - title: "Resource-efficient maintenance and renewal strategies for railway infrastructure via look-up tables"
+        authors: ["Leung, J.", "Stichel, S.", "Larsson Kråik, P.-O.", "Nissen, A.", "Ait-Ali, A.", "Odolinski, K.", "From, E.", "Torstensson, P."]
+        conference: "13th International Conference on Contact Mechanics and Wear of Rail/Wheel Systems (CM2025)"
+        location: "Tokyo, Japan"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22294"
+        bibtex_key: "cm2025lookup"
+
+      - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
+        authors: ["Ait-Ali, A.", "Hossein-Nia, S.", "Odolinski, K.", "Torstensson, P.", "Stichel, S."]
+        conference: "Transportforum 2025"
+        location: "Linköping, Sweden"
+        pages: "346-347"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21625"
+        bibtex_key: "tf2025lookup"
+
+      - title: "En förstudie om resenärspunktlighet i kollektivtrafiken"
+        authors: ["Ait-Ali, A."]
+        conference: "Transportforum 2025"
+        location: "Linköping, Sweden"
+        pages: "107-108"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21925"
+        bibtex_key: "tf2025punctuality"
+
+      - title: "Passenger delay-based valuation of railway disturbances for maintenance prioritization"
+        authors: ["Ait-Ali, A.", "Ranjbar, Z.", "Joborn, M."]
+        conference: "Transportforum 2026"
+        location: "Linköping, Sweden"
+        pages: "160-161"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22432"
+        bibtex_key: "tf2026passengerdelay"
+
+      - title: "Analyser av riskreducerande metoder i upphandling av järnvägsunderhåll: effekter på åtgärder och tågförseningar"
+        authors: ["Odolinski, K.", "Ait-Ali, A.", "Nilsson, J.-E.", "Lidén, T."]
+        conference: "Transportforum 2026"
+        location: "Linköping, Sweden"
+        pages: "123-124"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22423"
+        bibtex_key: "tf2026risk"
+
+      - title: "Bör vi skala upp?: Analyser av stordriftsfördelar inom järnvägsunderhåll"
+        authors: ["Odolinski, K.", "Nilsson, J.-E.", "Ridderstedt, I.", "Ait-Ali, A.", "Berry, C.", "Smith, A."]
+        conference: "Transportforum 2026"
+        location: "Linköping, Sweden"
+        pages: "127-128"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22431"
+        bibtex_key: "tf2026scaleup"
+
+      - title: "Rälfel i spårväxlars korsningsräler: vad besiktningsanmärkningar lär oss om feltyper, grundorsaker och underhåll för att förebygga trafikstörningar"
+        authors: ["Norberg, K.", "Torstensson, P.", "Ait-Ali, A.", "Odolinski, K.", "Pålsson, B."]
+        conference: "Transportforum 2026"
+        location: "Linköping, Sweden"
+        pages: "492-493"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22480"
+        bibtex_key: "tf2026raildefects"
+
+  - year: 2024
+    papers:
+      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs"
+        authors: ["Ait-Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
+        conference: "Transportforum 2024"
+        location: "Linköping, Sweden"
+        pages: "405-406"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20730"
+        bibtex_key: "tf2024crossings"
+
+      - title: "LCC evaluation of rail maintenance strategies using simulations of long-term mechanical degradation"
+        authors: ["Torstensson, P.", "Hossein-Nia, S.", "Ait-Ali, A.", "Odolinski, K.", "Larsson Kråik, P.-O.", "Krishna, V.", "Sundholm, L."]
+        conference: "Transportforum 2024"
+        location: "Linköping, Sweden"
+        pages: "408-409"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20732"
+        bibtex_key: "tf2024lccrail"
+
+      - title: "Finding a better renewal time and improved contract design for switches and crossings"
+        authors: ["Odolinski, K.", "Nissen, A.", "Ait-Ali, A."]
+        conference: "Transportforum 2024"
+        location: "Linköping, Sweden"
+        pages: "140-141"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20605"
+        bibtex_key: "tf2024renewal"
+
+  - year: 2023
+    papers:
+      - title: "Assessing Innovations in High-Speed Rail Infrastructure"
+        authors: ["Ait-Ali, A.", "Kurt, F.", "Isberner, A.", "Odolinski, K.", "Berg, M."]
+        conference: "Socioeconomic Impacts of High-Speed Rail Systems, Springer Proceedings in Business and Economics"
+        pages: "217-233"
+        doi: "10.1007/978-3-031-26340-8_13"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-19787"
+        bibtex_key: "springer2023"
+
+      - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
+        authors: ["Hossein-Nia, S.", "Ait-Ali, A.", "Odolinski, K.", "Torstensson, P.", "Stichel, S."]
+        conference: "The 28th International Symposium on Dynamics of Vehicles on Roads and Tracks (IAVSD)"
+        location: "Ottawa, Canada"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-19845"
+        bibtex_key: "iavsd2023lookup"
+
+  - year: 2022
+    papers:
+      - title: "Evaluation of long-term maintenance of switches & crossings with respect to life-cycle costs and socio-economic impact"
+        authors: ["Ait-Ali, A.", "Pålsson, B.", "Odolinski, K.", "Torstensson, P."]
+        conference: "21st Nordic Seminar on Railway Technology"
+        location: "Tampere, Finland"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-18794"
+        bibtex_key: "nrt2022crossings"
+
+      - title: "The KPI-Model: an integrated KPI assessment methodology to estimate the impact of different innovations in the railway sector"
+        authors: ["Kurt, F.", "Isberner, A.", "Meyer zu Hörste, M.", "Ernst, J.", "Ait-Ali, A."]
+        conference: "Proceedings of the 4th SmartRaCon Scientific Seminar"
+        location: "Donostia-San Sebastián, Spain"
+        volume: "39"
+        pages: "97-107"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20146"
+        bibtex_key: "smartracon2022kpi"
+
+  - year: 2021
+    papers:
+      - title: "A Cost-Benefit Analysis of Maintenance Windows in Railway Networks"
+        authors: ["Ait-Ali, A.", "Lidén, T."]
+        conference: "23rd Euro Working Group on Transportation Meeting (EWGT 2021)"
+        location: "Paris, France"
+        bibtex_key: "ewgt2021"
+
+  - year: 2019
+    papers:
+      - title: "Assessment of Commuter Train Timetables Including Transfers"
+        authors: ["Warg, J.", "Ait-Ali, A.", "Eliasson, J."]
+        conference: "Transportation Research Procedia"
+        volume: "37"
+        pages: "11-18"
+        doi: "10.1016/j.trpro.2018.12.160"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-165780"
+        slides: "/files/slides/ewgt18.pdf"
+        bibtex_key: "trpro2019transfers"
+
+      - title: "Assessing the Use of Welfare-Based Track Access Charging for Railway Capacity Allocation"
+        authors: ["Ait-Ali, A.", "Broman, E.", "Eliasson, J.", "Warg, J."]
+        conference: "hEART 2019, 8th Symposium of the European Association for Research in Transportation"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-160879"
+        pdf: "https://transp-or.epfl.ch/heart/2019/abstracts/hEART_2019_paper_116.pdf"
+        bibtex_key: "heart2019"
+
   - year: 2018
     papers:
       - title: "Pricing Commercial Train Path Requests Based on Societal Costs"
-        authors: ["Ait‑Ali, A.", "Warg, J."]
+        authors: ["Ait-Ali, A.", "Warg, J."]
         conference: "21st Euro Working Group on Transportation Meeting (EWGT 2018)"
         location: "Braunschweig, Germany"
         slides: "/files/slides/ewgt18.pdf"
         bibtex_key: "ewgt2018"
 
+  - year: 2017
+    papers:
+      - title: "Measuring the Socio-economic Benefits of Train Timetables: Application to Commuter Train Services in Stockholm"
+        authors: ["Ait-Ali, A.", "Eliasson, J.", "Warg, J."]
+        conference: "Transportation Research Procedia"
+        volume: "27"
+        pages: "849-856"
+        doi: "10.1016/j.trpro.2017.12.124"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-211534"
+        slides: "/files/slides/ewgt17.pdf"
+        bibtex_key: "trpro2017timetables"
+
+      - title: "Disaggregation in Bundle Methods: Application to the Train Timetabling Problem"
+        authors: ["Ait-Ali, A.", "Lindberg, P. O.", "Nilsson, J.-E.", "Eliasson, J.", "Aronsson, M."]
+        conference: "RailLille 2017 Proceedings"
+        url: "https://arxiv.org/abs/1702.08879"
+        bibtex_key: "raillille2017"
+
+working_papers:
+  - year: 2025
+    papers:
+      - title: "Modelling and evaluating travel information during disruptions: An illustrative example from Swedish railways"
+        authors: ["Ait-Ali, A.", "Peterson, A."]
+        series: "arXiv"
+        number: "2510.08254"
+        url: "https://arxiv.org/abs/2510.08254"
+        pdf: "https://arxiv.org/pdf/2510.08254"
+        bibtex_key: "arxiv2025travelinfo"
+
+      - title: "Analyser av riskreducerande metoder i upphandling av järnvägsunderhåll: effekter på åtgärder och tågförseningar"
+        authors: ["Odolinski, K.", "Ait-Ali, A.", "Nilsson, J.-E.", "Lidén, T."]
+        series: "Working Papers, Swedish National Road & Transport Research Institute"
+        number: "2025:5"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:2012671/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22293"
+        bibtex_key: "vtiwp2025risk"
+
+  - year: 2024
+    papers:
+      - title: "Exploring measures to monitor passenger-centric punctuality in public transport: a pre-study"
+        authors: ["Ait-Ali, A."]
+        series: "K2 Working Paper"
+        number: "2024:9"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1939990/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21702"
+        bibtex_key: "k2wp2024"
+
+  - year: 2023
+    papers:
+      - title: "Evaluating the mix of maintenance activities on railway crossings with respect to life-cycle costs"
+        authors: ["Ait-Ali, A.", "Odolinski, K.", "Pålsson, B.", "Torstensson, P."]
+        series: "Working Papers, Swedish National Road & Transport Research Institute"
+        number: "2023:6"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1768425/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-19774"
+        bibtex_key: "vtiwp2023crossings"
+
+      - title: "Assessing innovations in High-Speed Rail infrastructure"
+        authors: ["Ait-Ali, A.", "Kurt, F.", "Isberner, A.", "Odolinski, K.", "Berg, M."]
+        series: "Working Papers, Swedish National Road & Transport Research Institute"
+        number: "2023:7"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1768432/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-19775"
+        bibtex_key: "vtiwp2023hsr"
+
+      - title: "Finding a better renewal time and improved contract design for switches and crossings"
+        authors: ["Odolinski, K.", "Nissen, A.", "Ait-Ali, A."]
+        series: "VTI report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1812118/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20002"
+        bibtex_key: "vti2023renewal"
+
+      - title: "Att följa upp och utvärdera järnvägsunderhåll: Delrapport inom projektet Metod för jämförelsestudier av järnvägsunderhåll"
+        authors: ["Odolinski, K.", "Nilsson, J.-E.", "Sjöstrand, H.", "Ait-Ali, A.", "Lidén, T."]
+        series: "VTI report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1821569/FULLTEXT02"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20081"
+        bibtex_key: "vti2023maintenanceeval"
+
+  - year: 2021
+    papers:
+      - title: "Minimal utilization rates for railway maintenance windows: a cost-benefit approach"
+        authors: ["Ait-Ali, A.", "Lidén, T."]
+        series: "Working Papers, Swedish National Road & Transport Research Institute"
+        number: "2021:8"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1600685/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-17178"
+        bibtex_key: "vtiwp2021maintenance"
+
+  - year: 2020
+    papers:
+      - title: "Are commuter train timetables consistent with passengers' valuations of waiting times and in-vehicle crowding?"
+        authors: ["Ait-Ali, A.", "Eliasson, J.", "Warg, J."]
+        series: "VTI report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1387367/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-14810"
+        bibtex_key: "vti2020commuter"
+
+  - year: 2019
+    papers:
+      - title: "Dynamic Origin-Destination Estimation Using Smart Card Data: An Entropy Maximisation Approach"
+        authors: ["Ait-Ali, A.", "Eliasson, J."]
+        series: "arXiv"
+        number: "1909.02826"
+        url: "https://arxiv.org/abs/1909.02826"
+        pdf: "/files/odm.pdf"
+        slides: "/files/slides/odm.pdf"
+        bibtex_key: "arxiv2019od"
+
+      - title: "Railway capacity allocation: a survey of market organizations, allocation processes and track access charges"
+        authors: ["Ait-Ali, A.", "Eliasson, J."]
+        series: "VTI report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1318662/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13902"
+        bibtex_key: "vti2019capacity"
+
+      - title: "Pricing commercial train path requests based on societal costs"
+        authors: ["Ait-Ali, A.", "Warg, J.", "Eliasson, J."]
+        series: "VTI report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1318667/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-13903"
+        bibtex_key: "vti2019pricing"
+
 other_publications:
+  - year: 2026
+    papers:
+      - title: "Samplanering av trafikpåverkande åtgärder och trafikflöden för stråkplanering: SATT-SP: metoder, verktyg och fallstudier"
+        authors: ["Lidén, T.", "Kristofersson, F.", "Ait-Ali, A."]
+        series: "VTI report"
+        doi: "10.65151/vti972045"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:2041612/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22540"
+        bibtex_key: "vti2026sattsp"
+
   - year: 2024
     papers:
       - title: "Värdering av trafikinformationsnyttor i tågtrafiken (VTT): slutrapport"
-        authors: ["Ait‑Ali, A.", "Peterson, A."]
-        series: "VTI‑rapport"
+        authors: ["Ait-Ali, A.", "Peterson, A."]
+        series: "Trafikverket report"
+        pdf: "https://vti.diva-portal.org/smash/get/diva2:1859680/FULLTEXT01"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-20934"
         bibtex_key: "vtt2024"
-  
+
   - year: 2020
     papers:
       - title: "Methods for Capacity Allocation in Deregulated Railway Markets"
-        authors: ["Ait‑Ali, A."]
+        authors: ["Ait-Ali, A."]
         series: "Linköping Studies in Science and Technology"
         number: "Dissertation No. 2101"
+        doi: "10.3384/diss.diva-170193"
         pdf: "/files/phdthesis.pdf"
         thesis: true
         slides: "/files/slides/phd.pdf"
         bibtex_key: "phd2020"
+
+  - year: 2019
+    papers:
+      - title: "Moroccan Darija in Online Creation Communities: Example of Wikipedia"
+        authors: ["Sedrati, A.", "Ait-Ali, A."]
+        series: "Al-Andalus Magreb"
+        number: "26, 11.1-14"
+        doi: "10.25267/AAM.2019.i26.11"
+        url: "https://revistas.uca.es/index.php/aam/article/view/6794"
+        slides: "/files/slides/darija.pdf"
+        bibtex_key: "darija2019"
+
+  - year: 2016
+    papers:
+      - title: "Towards Internet Domain Names in Tifinagh"
+        authors: ["Ait-Ali, A.", "Sedrati, A."]
+        series: "TICAM 2016, International Conference on Information and Communication Technologies for the Amazigh"
+        pdf: "/files/ticam16.pdf"
+        slides: "/files/slides/ticam16.pdf"
+        bibtex_key: "ticam2016"
+
+  - year: 2015
+    papers:
+      - title: "Integration of Production Scheduling and Energy Management: Software Development"
+        authors: ["Ait-Ali, A."]
+        series: "KTH Royal Institute of Technology"
+        pdf: "/files/mathesis.pdf"
+        thesis: true
+        bibtex_key: "mathesis2015"
