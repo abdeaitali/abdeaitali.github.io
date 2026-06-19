@@ -1,6 +1,6 @@
 <footer class="site-footer" role="contentinfo">
   <div class="wrapper">
     <p>&copy; {{ site.author | default: site.title }}</p>
-    <p>Last updated: May 23, 2026</p>
+    <p>Last updated: {{ site.time | date: "%B %-d, %Y" }}</p>
   </div>
 </footer>

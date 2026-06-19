@@ -15,6 +15,7 @@ permalink: /publications/
   {% assign groups = site.data.pubs[category] | sort: "year" | reverse %}
   {% if groups and groups.size > 0 %}
 ## {{ type_labels[forloop.index0] }}
+---
 
     {% for year_group in groups %}
       {% for paper in year_group.papers %}
