@@ -8,9 +8,9 @@ current:
     url: "https://www.vinnova.se/p/ramverk-for-datadrivet-samhallsekonomiskt-effektivt-atertag-av-eftersatt-jarnvagsunderhall"
     featured: true
   - id: "effekt"
-    title: "EFFEKT - Effekt av underhållsåtgärder på järnvägens tillförlitlighet och kapacitet"
+    title: "Effekt av underhållsåtgärder på järnvägens tillförlitlighet och kapacitet"
     abbreviation: "EFFEKT"
-    years: "2026-05-01 - 2028-05-31"
+    years: "2026-2028"
     summary: "Study of maintenance actions' effects on railway reliability and capacity."
     sponsor: "Trafikverket"
     featured: true
