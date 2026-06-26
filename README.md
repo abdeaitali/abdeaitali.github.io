@@ -12,7 +12,11 @@ This repository contains a Jekyll-based GitHub Pages site for Abderrahman Ait-Al
 - `_data/home.yml`: homepage research interests and featured selections.
 - `assets/css/style.scss`: shared site styling overrides on top of the Minima theme.
 - `_includes/footer.html`: minimal footer override.
-- `files/`: local PDFs and slide decks served by the site.
+- `files/`: local downloads, organized by category.
+  - `files/preprints/`: preprints and drafts for papers.
+  - `files/slides/`: talk slide decks and presentation material.
+  - `files/theses/`: dissertations and theses.
+  - `files/papers/`: published papers and related materials.
 
 ## Local Development
 

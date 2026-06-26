@@ -90,7 +90,7 @@ journal_papers:
         volume: "132"
         pages: "452-464"
         doi: "10.1016/j.tra.2019.12.005"
-        preprint: "/files/TP1.pdf"
+        preprint: "/files/preprints/TP1.pdf"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15015"
         bibtex_key: "tra2020"
         featured: true
@@ -101,7 +101,7 @@ journal_papers:
         volume: "16"
         pages: "100200"
         doi: "10.1016/j.jrtpm.2020.100200"
-        preprint: "/files/BM.pdf"
+        preprint: "/files/preprints/BM.pdf"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15288"
         bibtex_key: "jrtpm2020"
         featured: true
@@ -393,7 +393,7 @@ working_papers:
         series: "arXiv"
         number: "1909.02826"
         url: "https://arxiv.org/abs/1909.02826"
-        pdf: "/files/odm.pdf"
+        pdf: "/files/preprints/odm.pdf"
         slides: "/files/slides/odm.pdf"
         bibtex_key: "arxiv2019od"
 
@@ -438,7 +438,7 @@ other_publications:
         series: "Linköping Studies in Science and Technology"
         number: "Dissertation No. 2101"
         doi: "10.3384/diss.diva-170193"
-        pdf: "/files/phdthesis.pdf"
+        pdf: "/files/theses/phdthesis.pdf"
         thesis: true
         slides: "/files/slides/phd.pdf"
         bibtex_key: "phd2020"
@@ -459,7 +459,7 @@ other_publications:
       - title: "Towards Internet Domain Names in Tifinagh"
         authors: ["Ait-Ali, A.", "Sedrati, A."]
         series: "TICAM 2016, International Conference on Information and Communication Technologies for the Amazigh"
-        pdf: "/files/ticam16.pdf"
+        pdf: "/files/papers/ticam16.pdf"
         slides: "/files/slides/ticam16.pdf"
         bibtex_key: "ticam2016"
 
