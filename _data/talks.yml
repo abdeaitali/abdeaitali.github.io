@@ -1,11 +1,37 @@
 featured:
+  - title: "Life cycle cost analysis of railway track sections using look-up tables"
+    event: "Transport Research Arena 2026"
+    location: "Budapest, Hungary"
+    year: 2026
+    links:
+      - label: "Slides"
+        url: "/files/slides/tra2026-lcc-look-up-tables.pdf"
+
   - title: "Passenger delay-based valuation of railway disturbances for maintenance prioritization"
     event: "Transportforum 2026"
     location: "Linköping, Sweden"
     year: 2026
     links:
+      - label: "Slides"
+        url: "/files/slides/tf26-priopunkt.pdf"
       - label: "Record"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22432"
+
+  - title: "Passenger-centric analysis of train punctuality: a case study on Stockholm's commuter rail"
+    event: "Swedish Transport Research Conference 2025"
+    location: "Norrköping, Sweden"
+    year: 2025
+    links:
+      - label: "Slides"
+        url: "/files/slides/strc25-passenger-centric-punctuality.pdf"
+
+  - title: "Integrating demand data with train delay models: socio-economic evaluation for maintenance planning"
+    event: "EWGT 2025"
+    location: "Edinburgh, United Kingdom"
+    year: 2025
+    links:
+      - label: "Slides"
+        url: "/files/slides/ewgt25-demand-delay-maintenance.pdf"
 
   - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
     event: "Transportforum 2025"
@@ -59,6 +85,6 @@ selected:
     year: 2016
     links:
       - label: "Paper"
-        url: "/files/ticam16.pdf"
+        url: "/files/papers/ticam16.pdf"
       - label: "Slides"
         url: "/files/slides/ticam16.pdf"
