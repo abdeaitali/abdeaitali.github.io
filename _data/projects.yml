@@ -9,10 +9,26 @@ current:
     featured: true
   - id: "effekt"
     title: "EFFEKT - Effekt av underhållsåtgärder på järnvägens tillförlitlighet och kapacitet"
+    english_title: "Impact of Maintenance Interventions on Railway Reliability and Capacity"
     abbreviation: "EFFEKT"
-    years: "2026-05-01 - 2028-05-31"
+    portfolio: "Vidmakthålla"
+    program: "KAJT-programmet"
+    program_description: "KAJT-programmet syftar till att förstärka järnvägssystemets förmåga att tillgodose samhällets transportbehov genom bättre kapacitet, trafikflöden och tjänster."
+    goal_area: "Effektivare underhållsplanering"
+    call: "Ej angivet"
+    research_type: "Industriell forskning"
+    transport_mode: "Järnväg"
+    start_date: "2026-05-01"
+    end_date: "2028-05-31"
     summary: "Study of maintenance actions' effects on railway reliability and capacity."
+    description: |
+      Järnvägens underhålls- och reinvesteringsbeslut baseras ofta på tekniska och ekonomiska bedömningar, men det saknas en metod för att systematiskt och kvantifierbart skatta effekterna av en specifik eller mix av åtgärder på felfrekvens, punktlighet, kapacitet och kostnadseffektivitet.
+      Projektet utvecklar en evidensbaserad metod för att mäta hur olika underhållsåtgärder påverkar felfrekvens, punktlighet och kapacitet och för att skilja ut effekter av externa faktorer såsom anläggningstillstånd, trafikvolymer och väderförhållanden.
+      Metodiken ska hjälpa beslutsfattare att fördela resurser mer träffsäkert och förbättra systemets robusthet.
     sponsor: "Trafikverket"
+    created_by: "Zohreh Ranjbar"
+    document_date: "2025-10-29 14:45:30"
+    version: "1.0"
     featured: true
   - id: "rurut"
     title: "Resource-efficient maintenance and renewal strategies via look-up tables"
