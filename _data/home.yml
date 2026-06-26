@@ -1,6 +1,6 @@
 hero:
   bio:
-    - 'Welcome to my homepage. I am a senior researcher at <a href="https://www.vti.se/en/employees/abderrahman-ait-ali">VTI, the Swedish National Road and Transport Research Institute</a>, and an adjunct associate professor at <a href="https://liu.se/en/employee/abdai17">Linköping University</a>.'
+    - 'I am a senior researcher at <a href="https://www.vti.se/en/employees/abderrahman-ait-ali">VTI, the Swedish National Road and Transport Research Institute</a>, and an adjunct associate professor at <a href="https://liu.se/en/employee/abdai17">Linköping University</a>.'
     - "My academic work focuses on transport economics, optimization, and applied transport analysis for public transport and railway systems. Current research includes maintenance prioritization, passenger-centric punctuality, and information during railway disruptions."
     - 'You can also view my <a href="/files/cv.pdf">CV</a>.'
   affiliations:

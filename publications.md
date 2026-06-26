@@ -8,43 +8,58 @@ permalink: /publications/
   <p>This page lists my publications. For the full list, see my <a href="https://scholar.google.com/citations?user=3t1aBqYAAAAJ">Google Scholar profile</a>.</p>
 </div>
 
-{% assign categories = "journal_papers,conference_papers,working_papers,other_publications" | split: "," %}
-{% assign type_labels = "Peer-reviewed journal articles,Papers in conference proceedings,Working papers and preprints,Other publications" | split: "," %}
+{% assign journal_groups = site.data.pubs.journal_papers | sort: "year" | reverse %}
+{% assign conference_groups = site.data.pubs.conference_papers | sort: "year" | reverse %}
+{% assign working_groups = site.data.pubs.working_papers | sort: "year" | reverse %}
+{% assign report_groups = site.data.pubs.other_publications | sort: "year" | reverse %}
 
-{% for category in categories %}
-  {% assign groups = site.data.pubs[category] | sort: "year" | reverse %}
-  {% if groups and groups.size > 0 %}
-## {{ type_labels[forloop.index0] }}
+## Featured publications
 ---
 
-    {% for year_group in groups %}
-      {% for paper in year_group.papers %}
-        {% capture authors_text %}{{ paper.authors | join: ", " }}{% endcapture %}
-        {% assign authors_text = authors_text | replace: "Ait‑Ali, A.", "<strong>Ait‑Ali, A.</strong>" %}
-        {% assign authors_text = authors_text | replace: "Ait-Ali, A.", "<strong>Ait-Ali, A.</strong>" %}
-        {% assign title_last = paper.title | slice: -1, 1 %}
-        {% capture title_stop %}{% unless title_last == "." or title_last == "?" or title_last == "!" %}.{% endunless %}{% endcapture %}
-        {% capture links %}
-          {% if paper.doi %} DOI: [{{ paper.doi }}](https://doi.org/{{ paper.doi }}){% endif %}{% if paper.preprint %} [Preprint]({{ paper.preprint }}){% endif %}{% if paper.pdf %} [PDF]({{ paper.pdf }}){% endif %}{% if paper.url %} [Record]({{ paper.url }}){% endif %}{% if paper.slides %} [Slides]({{ paper.slides }}){% endif %}{% if paper.video %} [Video]({{ paper.video }}){% endif %}
-        {% endcapture %}
-        {% assign links_text = links | strip %}
-        {% capture citation %}
-          {% if category == "preprints" %}
-            {{ authors_text }} ({{ year_group.year }}). {{ paper.title }}{{ title_stop }} {{ paper.series }}{% if paper.number %}, {{ paper.number }}{% endif %}.{% if links_text != "" %} {{ links_text }}{% endif %}
-          {% elsif category == "journal_papers" %}
-            {{ authors_text }} ({{ year_group.year }}). {{ paper.title }}{{ title_stop }} *{{ paper.journal }}*{% if paper.volume %}, vol. {{ paper.volume }}{% endif %}{% if paper.issue %}, no. {{ paper.issue }}{% endif %}{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}, {{ year_group.year }}.{% if links_text != "" %} {{ links_text }}{% endif %}
-          {% elsif category == "conference_papers" %}
-            {{ authors_text }} ({{ year_group.year }}). {{ paper.title }}{{ title_stop }} In *{{ paper.conference | default: paper.journal }}*{% if paper.volume %}, vol. {{ paper.volume }}{% endif %}{% if paper.location %}, {{ paper.location }}{% endif %}{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}.{% if links_text != "" %} {{ links_text }}{% endif %}
-          {% elsif category == "working_papers" %}
-            {{ authors_text }} ({{ year_group.year }}). {{ paper.title }}{{ title_stop }} {{ paper.series }}{% if paper.number %}, {{ paper.number }}{% endif %}.{% if links_text != "" %} {{ links_text }}{% endif %}
-          {% else %}
-            {{ authors_text }} ({{ year_group.year }}). {{ paper.title }}{{ title_stop }} {{ paper.series }}{% if paper.number %}, {{ paper.number }}{% endif %}.{% if links_text != "" %} {{ links_text }}{% endif %}
-          {% endif %}
-        {% endcapture %}
-        {% if citation != "" %}
-- <span id="{{ paper.bibtex_key }}"></span>{{ citation | strip }}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  {% endif %}
+<div class="publication-list publication-featured-list">
+{% for year_group in journal_groups %}
+  {% for paper in year_group.papers %}
+    {% if paper.featured %}
+      {% include publication-item.html paper=paper year=year_group.year category="journal_papers" %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
+</div>
+
+## Journal articles
+---
+
+<div class="publication-list">
+{% for year_group in journal_groups %}
+  {% for paper in year_group.papers %}
+    {% include publication-item.html paper=paper year=year_group.year category="journal_papers" %}
+  {% endfor %}
+{% endfor %}
+</div>
+
+<details class="publication-section">
+<summary>Conference proceedings</summary>
+<div class="publication-list">
+{% for year_group in conference_groups %}
+  {% for paper in year_group.papers %}
+    {% include publication-item.html paper=paper year=year_group.year category="conference_papers" %}
+  {% endfor %}
+{% endfor %}
+</div>
+</details>
+
+<details class="publication-section">
+<summary>Working papers & reports</summary>
+<div class="publication-list">
+{% for year_group in working_groups %}
+  {% for paper in year_group.papers %}
+    {% include publication-item.html paper=paper year=year_group.year category="working_papers" %}
+  {% endfor %}
+{% endfor %}
+{% for year_group in report_groups %}
+  {% for paper in year_group.papers %}
+    {% include publication-item.html paper=paper year=year_group.year category="other_publications" %}
+  {% endfor %}
+{% endfor %}
+</div>
+</details>

@@ -1,0 +1,30 @@
+{% assign paper = include.paper %}
+{% assign category = include.category %}
+{% assign year = include.year %}
+{% capture authors_text %}{{ paper.authors | join: ", " }}{% endcapture %}
+{% assign authors_text = authors_text | replace: "Ait‑Ali, A.", "<strong>Ait‑Ali, A.</strong>" %}
+{% assign authors_text = authors_text | replace: "Ait-Ali, A.", "<strong>Ait-Ali, A.</strong>" %}
+{% assign title_last = paper.title | slice: -1, 1 %}
+{% capture title_stop %}{% unless title_last == "." or title_last == "?" or title_last == "!" %}.{% endunless %}{% endcapture %}
+{% capture publication_actions %}
+  {% if paper.doi %}<a class="publication-link" href="https://doi.org/{{ paper.doi }}">DOI</a>{% endif %}
+  {% if paper.preprint %}<a class="publication-link" href="{{ paper.preprint }}">Preprint</a>{% endif %}
+  {% if paper.pdf %}<a class="publication-link" href="{{ paper.pdf }}">PDF</a>{% endif %}
+  {% if paper.url %}<a class="publication-link" href="{{ paper.url }}">Record</a>{% endif %}
+  {% if paper.slides %}<a class="publication-link" href="{{ paper.slides }}">Slides</a>{% endif %}
+  {% if paper.video %}<a class="publication-link" href="{{ paper.video }}">Video</a>{% endif %}
+{% endcapture %}
+{% assign publication_actions = publication_actions | strip %}
+
+<p class="publication-item">
+  <span id="{{ paper.bibtex_key }}"></span>
+  {{ authors_text }} ({{ year }}). {{ paper.title }}{{ title_stop }}
+  {% if category == "journal_papers" %}
+    <em>{{ paper.journal }}</em>{% if paper.volume %}, vol. {{ paper.volume }}{% endif %}{% if paper.issue %}, no. {{ paper.issue }}{% endif %}{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}, {{ year }}.
+  {% elsif category == "conference_papers" %}
+    In <em>{{ paper.conference | default: paper.journal }}</em>{% if paper.volume %}, vol. {{ paper.volume }}{% endif %}{% if paper.location %}, {{ paper.location }}{% endif %}{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}.
+  {% else %}
+    <em>{{ paper.series }}</em>{% if paper.number %}, {{ paper.number }}{% endif %}.
+  {% endif %}
+  {% if publication_actions != "" %}<span class="publication-actions">{{ publication_actions }}</span>{% endif %}
+</p>

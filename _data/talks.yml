@@ -1,0 +1,64 @@
+featured:
+  - title: "Passenger delay-based valuation of railway disturbances for maintenance prioritization"
+    event: "Transportforum 2026"
+    location: "Linköping, Sweden"
+    year: 2026
+    links:
+      - label: "Record"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-22432"
+
+  - title: "Simulation-based evaluation of maintenance strategies using look-up tables"
+    event: "Transportforum 2025"
+    location: "Linköping, Sweden"
+    year: 2025
+    links:
+      - label: "Record"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21625"
+
+  - title: "En förstudie om resenärspunktlighet i kollektivtrafiken"
+    event: "Transportforum 2025"
+    location: "Linköping, Sweden"
+    year: 2025
+    links:
+      - label: "Record"
+        url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-21925"
+
+selected:
+  - title: "Methods for Capacity Allocation in Deregulated Railway Markets"
+    event: "PhD defence seminar"
+    location: "KTH Royal Institute of Technology"
+    year: 2020
+    links:
+      - label: "Slides"
+        url: "/files/slides/phd.pdf"
+
+  - title: "Dynamic Origin-Destination Estimation Using Smart Card Data"
+    event: "Research presentation"
+    year: 2019
+    links:
+      - label: "Slides"
+        url: "/files/slides/odm.pdf"
+
+  - title: "Pricing Commercial Train Path Requests Based on Societal Costs"
+    event: "21st Euro Working Group on Transportation Meeting"
+    location: "Braunschweig, Germany"
+    year: 2018
+    links:
+      - label: "Slides"
+        url: "/files/slides/ewgt18.pdf"
+
+  - title: "Measuring the Socio-economic Benefits of Train Timetables"
+    event: "Euro Working Group on Transportation Meeting"
+    year: 2017
+    links:
+      - label: "Slides"
+        url: "/files/slides/ewgt17.pdf"
+
+  - title: "Towards Internet Domain Names in Tifinagh"
+    event: "TICAM 2016"
+    year: 2016
+    links:
+      - label: "Paper"
+        url: "/files/ticam16.pdf"
+      - label: "Slides"
+        url: "/files/slides/ticam16.pdf"

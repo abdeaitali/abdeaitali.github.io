@@ -51,6 +51,7 @@ journal_papers:
         doi: "10.1080/23249935.2021.1885521"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-16002"
         bibtex_key: "transportmetrica2022"
+        featured: true
 
       - title: "The value of additional data for public transport origin-destination matrix estimation"
         authors: ["Ait-Ali, A.", "Eliasson, J."]
@@ -92,6 +93,7 @@ journal_papers:
         preprint: "/files/TP1.pdf"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15015"
         bibtex_key: "tra2020"
+        featured: true
 
       - title: "A disaggregate bundle method for train timetabling problems"
         authors: ["Ait-Ali, A.", "Lindberg, P. O.", "Eliasson, J.", "Nilsson, J.-E.", "Peterson, A."]
@@ -102,6 +104,7 @@ journal_papers:
         preprint: "/files/BM.pdf"
         url: "https://urn.kb.se/resolve?urn=urn:nbn:se:vti:diva-15288"
         bibtex_key: "jrtpm2020"
+        featured: true
 
 conference_papers:
   - year: 2026

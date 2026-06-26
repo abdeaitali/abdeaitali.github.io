@@ -15,6 +15,8 @@ current:
     sponsor: "Vinnova (InfraSweden)"
     url: "https://www.vinnova.se/en/p/resource-efficient-maintenance-and-renewal-strategies-via-look-up-tables"
     featured: true
+
+completed:
   - id: "respunkt"
     title: "Exploring Measures to Monitor Passenger-Centric Punctuality in Public Transport"
     abbreviation: "ResPunkt"
@@ -22,8 +24,6 @@ current:
     summary: "Pre-study on measures to monitor passenger-centric punctuality in public transport."
     sponsor: "K2"
     url: "https://www.k2centrum.se/publikationer/exploring-measures-monitor-passenger-centric-punctuality-public-transport/"
-
-completed:
   - id: "priopunkt"
     title: "Socio-economic prioritization of maintenance actions for improved punctuality"
     abbreviation: "Priopunkt"

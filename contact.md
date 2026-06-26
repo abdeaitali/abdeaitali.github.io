@@ -27,9 +27,10 @@ Office: Department of Science and Technology, Campus Norrköping, Spetsen Hörnh
 ## Professional profiles
 ---
 
+- <a href="/files/cv.pdf">CV</a>
+- <a href="https://scholar.google.com/citations?user=3t1aBqYAAAAJ">Google Scholar</a>
+- <a href="https://orcid.org/0000-0001-9535-0617">ORCID</a>
+- <a href="https://www.scopus.com/authid/detail.uri?authorId=57200147417">Scopus</a>
+- <a href="https://www.researchgate.net/profile/Abderrahman-Ait-Ali">ResearchGate</a>
 - <a href="https://www.linkedin.com/in/abdeaitali/">LinkedIn</a>
 - <a href="https://github.com/abdeaitali">GitHub</a>
-- <a href="https://scholar.google.com/citations?user=3t1aBqYAAAAJ">Google Scholar</a>
-- <a href="https://www.researchgate.net/profile/Abderrahman-Ait-Ali">ResearchGate</a>
-- <a href="https://www.scopus.com/authid/detail.uri?authorId=57200147417">Scopus</a>
-- <a href="https://orcid.org/0000-0001-9535-0617">ORCID</a>
